@@ -1,0 +1,10 @@
+{"corpus_id": 1000, "sent_id": 0, "text": "Bar graph showing Nutaariut population changes years from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "There is a graph with thick blue lines. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 1, "text": "They have the years across the bottom of the graph that are from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 2, "text": "Each year has a thick blue line coming from it that has a number above the blue line. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "This is a bar graph with the year on the x axis and the population on the y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 1, "text": "The years range from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "The image shows the number of seat won by 7 different political groups in Croatia over a period of 24 years.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "This is a bar graph representing the population growth dynamics from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "This pie chart shows the average electricity price for a german household", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "Graph captures the upward slop to display data for inverse operation for super root and other super roots. ", "labels": [-1, -1, -1, -1]}

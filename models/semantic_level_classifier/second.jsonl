@@ -1,0 +1,10 @@
+{"corpus_id": 1000, "sent_id": 0, "text": "Bar graph showing Nutaariut population changes by year from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "There is a graph with thick blue lines that connect to a year and the growth that year had. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 1, "text": "Here is the and number for each year.\n1991=126\n1992=152\n1993=163\n1994=189\n1995=188\n1996=203\n1997=212\n1998=202\n1999=211\n2000=198\n2001=196\n2002=214\n2003=185\n2004=177\n2005=180\n2006=183\n2007=190\n2008=173\n2009=173\n2010=188", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "This is a bar graph with the year on the x axis and the population on the y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 1, "text": "The years range from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "The image shows the number of seats won by 7 different political groups in Croatia over a period of 24 years.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "This is a bar graph representing the population growth dynamics from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 1, "text": "The population grows with a peak in 1995, then dips slightly and grows again, and then dips with a low in 2009.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "This pie chart shows a breakdown of the average electricity price for a german household", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1000, "sent_id": 0, "text": "gradual slope displays values for x and y, 2 to 8 for y axis. only 2 for x axis.  the data is shown as upward to linear effects from y value 2 to y value 8 being the linear line of consistent data.", "labels": [-1, -1, -1, -1]}

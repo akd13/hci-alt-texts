@@ -67,16 +67,18 @@ class AltTextSentenceDataset(Dataset):
 class DataModule(LightningDataModule):
     def __init__(
             self,
+            model_name_or_path: str,
             train_file: str,
             val_file: str,
-            model_name_or_path: str,
+            pred_file: str,
             max_seq_length: int = 512,
-            batch_size: int = 32,
+            batch_size: int = 4,
             **kwargs,
     ):
         super().__init__()
         self.train_file = train_file
         self.val_file = val_file
+        self.pred_file = pred_file
         self.model_name_or_path = model_name_or_path
         self.max_seq_length = max_seq_length
         self.batch_size = batch_size
@@ -92,17 +94,22 @@ class DataModule(LightningDataModule):
                     data.append(json.loads(line))
             return data
 
-        train_data = load_data(self.train_file)
-        val_data = load_data(self.val_file)
-        self.train_dataset = AltTextSentenceDataset(train_data, self.tokenizer)
-        self.val_dataset = AltTextSentenceDataset(val_data, self.tokenizer)
+        if stage == 'fit':
+            train_data = load_data(self.train_file)
+            val_data = load_data(self.val_file)
+            self.train_dataset = AltTextSentenceDataset(train_data, self.tokenizer)
+            self.val_dataset = AltTextSentenceDataset(val_data, self.tokenizer)
+
+        if stage == 'predict':
+            pred_data = load_data(self.pred_file)
+            self.pred_dataset = AltTextSentenceDataset(pred_data, self.tokenizer)
 
     def train_dataloader(self):
         return DataLoader(
             self.train_dataset,
             batch_size=self.batch_size,
             collate_fn=AltTextSentenceDataset.collate_fn,
-            num_workers=2
+            num_workers=1
         )
 
     def val_dataloader(self):
@@ -110,9 +117,16 @@ class DataModule(LightningDataModule):
             self.val_dataset,
             batch_size=self.batch_size,
             collate_fn=AltTextSentenceDataset.collate_fn,
-            num_workers=2
+            num_workers=1
         )
 
+    def predict_dataloader(self):
+        return DataLoader(
+            self.pred_dataset,
+            batch_size=self.batch_size,
+            collate_fn=AltTextSentenceDataset.collate_fn,
+            num_workers=1
+        )
 
 class TransformerModule(LightningModule):
     def __init__(
@@ -124,7 +138,7 @@ class TransformerModule(LightningModule):
             warmup_steps: int = 0,
             weight_decay: float = 0.0,
             max_seq_length: int = 512,
-            batch_size: int = 32,
+            batch_size: int = 4,
             **kwargs,
     ):
         super().__init__()
@@ -139,7 +153,7 @@ class TransformerModule(LightningModule):
         self.num_labels = num_labels
         self.batch_size = batch_size
         self.tokenizer = AutoTokenizer.from_pretrained(
-            model_name_or_path, use_fast=True, max_length=max_seq_length
+            model_name_or_path, use_fast=True, max_length=max_seq_length,
         )
 
     def forward(self, **inputs):
@@ -183,11 +197,17 @@ class TransformerModule(LightningModule):
         self.log("val_f1", val_f1, prog_bar=True)
         return loss
 
+    def predict_step(self, batch, batch_idx, dataloader_idx=0):
+        outputs = self(**batch)
+        _, probs, _ = outputs
+        preds = torch.round(probs)
+        return {"preds": preds}
+        
     def setup(self, stage=None) -> None:
         if stage != "fit":
             return
         train_loader = self.train_dataloader()
-        tb_size = self.hparams.batch_size * max(1, self.trainer.gpus if self.trainer.gpus else 0)
+        tb_size = self.hparams.batch_size * max(1, len(self.trainer.gpus) if self.trainer.gpus else 0)
         ab_size = self.trainer.accumulate_grad_batches * float(self.trainer.max_epochs)
         self.total_steps = (len(train_loader.dataset) // tb_size) // ab_size
 
@@ -216,8 +236,8 @@ class TransformerModule(LightningModule):
         return [optimizer], [scheduler]
 
 
-def train(model, train_file, val_file, outdir, logname, device_type, devices):
-    dm = DataModule(train_file=train_file, val_file=val_file, model_name_or_path=model)
+def train(model, train_file, val_file, pred_file, outdir, logname, device_type, devices):
+    dm = DataModule(train_file=train_file, val_file=val_file, pred_file=pred_file, model_name_or_path=model)
     dm.setup(stage="fit")
     model = TransformerModule(warmup_steps=200, model_name_or_path=model)
     logger = TensorBoardLogger(outdir, name=logname)
@@ -232,7 +252,7 @@ def train(model, train_file, val_file, outdir, logname, device_type, devices):
         accelerator=device_type,
         devices=devices,
         progress_bar_refresh_rate=5,
-        max_epochs=16,
+        max_epochs=1,
         default_root_dir=outdir,
         logger=logger,
         callbacks=[checkpoint_callback]
@@ -240,17 +260,43 @@ def train(model, train_file, val_file, outdir, logname, device_type, devices):
     trainer.fit(model, dm)
     trainer.validate(model, dm.val_dataloader())
 
+    dm.setup(stage="predict")
+    predictions = trainer.predict(model, dm.predict_dataloader())
+    pred_list = []
+    for pred in predictions:
+        pred_list.append(pred['preds'].cpu())
+    pred_tensor = torch.cat(pred_list, dim = 0)
+    return pred_tensor
+
+# def predict(model, model_path, pred_file):
+#     model = TransformerModule(model_name_or_path=model).load_from_checkpoint(model_path)
+#     dm = DataModule(model_name_or_path=model, train_file=None, val_file=None, pred_file=pred_file)
+#     dm.setup(stage="predict")
+#     trainer = Trainer(
+#         accelerator=device_type,
+#         devices=devices,
+#         progress_bar_refresh_rate=5,)
+#     predictions = trainer.predict(model, dm)
+#     pred_list = []
+#     for pred in predictions:
+#         pred_list.append(pred['preds'])
+
+#     pred_tensor = torch.cat(pred_list, dim = 0)
+#     return pred_tensor
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", type=str, help="Name of model")
     parser.add_argument("--data", type=str, help="Path to data directory")
     parser.add_argument("--outdir", type=str, help="Path to save output")
+    parser.add_argument("--preds", type=str, help="Path to process file for predictions")
+    
     args = parser.parse_args()
 
     model_name = args.model
     data_dir = args.data
     out_dir = os.path.join(args.outdir, model_name.replace('/', '_'))
+    pred_file = args.preds
 
     if not os.path.exists(data_dir):
         print('Data path does not exist!')
@@ -265,7 +311,8 @@ if __name__ == "__main__":
     else:
         device_type = 'gpu'
         devices = [0]
-
+    
+    predictions = torch.zeros(10, 4)
     # get folds
     for i in range(5):
         print(f'Fold {i}')
@@ -278,6 +325,22 @@ if __name__ == "__main__":
         out_subdir = os.path.join(out_dir, f'fold_{i:02d}')
         os.makedirs(out_subdir, exist_ok=True)
         logger_name = 'logs'
-        train(model_name, train_file, val_file, out_subdir, logger_name, device_type, devices)
+        predictions+=train(model_name, train_file, val_file, pred_file, out_subdir, logger_name, device_type, devices)
 
+
+    # for i in range(5):
+    #     out_subdir = os.path.join(out_dir, f'fold_{i:02d}', 'checkpoints')
+    #     filename = os.listdir(out_subdir)[0]
+    #     print("checkpoint",out_subdir)
+    #     model_path = out_subdir +'/'+filename
+    #     model_name = "allenai/scibert_scivocab_uncased"
+    #     print("model path", model_path)
+    #     predictions+=predict(model = model_name, model_path = model_path, pred_file = pred_file).cpu()
+    
+    pred_index = predictions/5
+    print(f"Total Examples: {pred_index.shape[0]}")
+    print(f"Level 1 Percentage: {torch.sum(pred_index[:, 0])/pred_index.shape[0]}")
+    print(f"Level 2 Percentage: {torch.sum(pred_index[:, 1])/pred_index.shape[0]}")
+    print(f"Level 3 Percentage: {torch.sum(pred_index[:, 2])/pred_index.shape[0]}")
+    print(f"Level 4 Percentage: {torch.sum(pred_index[:, 3])/pred_index.shape[0]}")
     print('done.')
