@@ -1,0 +1,1 @@
+python scibert_classifier.py --model allenai/scibert_scivocab_uncased --data data_splits/ --outdir . --preds only_first.jsonl 

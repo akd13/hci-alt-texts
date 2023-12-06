@@ -184,6 +184,7 @@ class TransformerModule(LightningModule):
         outputs = self(**batch)
         val_loss, probs, labels = outputs
         preds = torch.round(probs)
+        print("predictions val", preds)
         return {"loss": val_loss, "preds": preds, "labels": labels}
 
     def validation_epoch_end(self, outputs):
@@ -201,6 +202,7 @@ class TransformerModule(LightningModule):
         outputs = self(**batch)
         _, probs, _ = outputs
         preds = torch.round(probs)
+        print("prediction", preds)
         return {"preds": preds}
         
     def setup(self, stage=None) -> None:
@@ -338,6 +340,7 @@ if __name__ == "__main__":
     #     predictions+=predict(model = model_name, model_path = model_path, pred_file = pred_file).cpu()
     
     pred_index = predictions/5
+    print(pred_index)
     print(f"Total Examples: {pred_index.shape[0]}")
     print(f"Level 1 Percentage: {torch.sum(pred_index[:, 0])/pred_index.shape[0]}")
     print(f"Level 2 Percentage: {torch.sum(pred_index[:, 1])/pred_index.shape[0]}")

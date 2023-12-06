@@ -1,0 +1,567 @@
+{"corpus_id": 1000, "sent_id": 0, "text": "a bar graph is shown by year, with variable increases and decreases but a downward trend between 2004-2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1001, "sent_id": 0, "text": "a bar graph is shown with yearly pop trends, beginning with very low trends and rising upwards until 2000s, where data is variable until lowering between 2007-2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1002, "sent_id": 0, "text": "a bar graph is shown with variable trends between 1991-2004, where a steady downward trend is seen ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1003, "sent_id": 0, "text": "The visualization shows the average ages of Bishop Auckland residents compared to County Durham residents, as well as the whole of England and Wales.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1004, "sent_id": 0, "text": "A graph of the function sqrt3 times x times s.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1005, "sent_id": 0, "text": "A graph depicting the lower student enrollment in Medical and Law schools when compared to general Academy and College.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1006, "sent_id": 0, "text": "Subsidized contributions raised more than Fundraising Expenses across the board. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1006, "sent_id": 1, "text": "At least double or more of every party. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1007, "sent_id": 0, "text": "Overall, the population is right where it was 19 years prior in 1991. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1007, "sent_id": 1, "text": "It spiked upwards in the mid nineties and early two thousands. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1008, "sent_id": 0, "text": "It's been really up & down for Ernie Toshack. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1008, "sent_id": 1, "text": "He's done better in the \"test\" innings than the other first-class innings.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1009, "sent_id": 0, "text": "The data shows debt in percent of GDP for the country of Portugal vs the Eurozone average from the years 1999-2019, according to data from Oxford economics. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1009, "sent_id": 1, "text": "Portugals percentage begins at 50% and gradually rises to 131 in 2015, before falling to 124 in 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1010, "sent_id": 0, "text": "The data is presented as a pie chart representing the components of the German Power Price for the average household consumers in 2020, totaling 31,47 cent per kWh. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1010, "sent_id": 1, "text": "The grid charges are the highest value, at 25,1%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1010, "sent_id": 2, "text": "Power generation or acquisition, and Sales is 22,4% of the price. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1010, "sent_id": 3, "text": "Renewable surcharge is 21,5%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1010, "sent_id": 4, "text": "Value-added tax is 16%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1011, "sent_id": 0, "text": "The bar graph illustrates the rise and fall of population numbers of Nanortalik from 1991-2010, according to Statistics Greenland. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1011, "sent_id": 1, "text": "The populations per year are as follows. 1991:1441, 1992:1483, 1993:1499, 1994:1508, 1995:1564, 1996:1527, 1997:1541, 1998:1506, 1999:1516, 2000:1538, 2001:1506, 2002:1544, 2003:1549, 2004:1529, 2005:1509, 2006:1476, 2007:1450, 2008:1445, 2009:1430, 2010:1448. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1012, "sent_id": 0, "text": "Annual bar graph of the population", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1013, "sent_id": 0, "text": "3-d bar graph showing fundraising expenses compared to contributions for each party individually and combined", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1014, "sent_id": 0, "text": "From May to Aug, runs scored per inning is shown. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1014, "sent_id": 1, "text": "Highest being in June & July. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1015, "sent_id": 0, "text": "% of general population in NMI defined consumer segments. 26% conventionals. 19% drifters. 19% naturalites. 19% unconcerned. 17% lohas.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1016, "sent_id": 0, "text": "Joint range of X {\\displaystyle X} and Y {\\displaystyle Y} . ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1016, "sent_id": 1, "text": "Darker indicates higher value of the density function. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1017, "sent_id": 0, "text": "The comparison between \u2018England and Wales\u2019, \u2018County of Durham\u2019, and \u2018Bishop Auckland\u2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1017, "sent_id": 1, "text": "The percent of population with Age groups on an XY axis chart.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1018, "sent_id": 0, "text": "From 1999 through 2002, total assets and net assets remained steady, with a sharp increase beginning in 2003 leading into 2009 where it has leveled off and peaked at a 900% increase.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1019, "sent_id": 0, "text": "Both SSDI, SSI recipients with mental disability has continued to increase at a steady pace with Prozac introduced, with 2003 Total number of SSI and SDI payments to disabled mentally ill recepients peaking at 6,000,000.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1020, "sent_id": 0, "text": "Cloture motions, votes on cloture and cloture invoked remained steady from 1917 with slight increases in 1925/1926, and 1945/1946, 20 years later, before leveling off to lowest numbers in 1955/1956. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1020, "sent_id": 1, "text": "Cloture motions beginning in 1967 throughout 1974 increased sharply, following votes on cloture, and lastly following a similar pattern were cloture invoked. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1021, "sent_id": 0, "text": "Cigarette sales have increased dramatically in recent years; a 2016 survey found that the number of e-cigarettes sold nearly reached the number of explosions.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1022, "sent_id": 0, "text": "Portugal's debt is nearly one and a half times greater than that of the rest of Europe.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1023, "sent_id": 0, "text": "This does not make sense to me; it might have an error of disposition.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1024, "sent_id": 0, "text": "A graph depicting the assets of Great Southern Group with two sets of data depicted Net assets in the color green and total assets in the color red the graph includes data from 1999-2008 and accounts for assets up to $1,800,000.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1025, "sent_id": 0, "text": "A graph depicting the mean height in KM for a company INFLATESAIL the data is from 2017 and ranges from 480-380 the mean height decreased overtime.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1026, "sent_id": 0, "text": "The seven main political faction's in Croatian parliamentary elections results from 1992-2016 in line graph form.  ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1027, "sent_id": 0, "text": "I would be looking for a pyramid not a bar graph", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1028, "sent_id": 0, "text": "The pink bars are very low. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1028, "sent_id": 1, "text": "There were only 3 instances where the test innings were signigantly higher than the first class innings.  Average is between approximately 4 runs to 18.  Average increased great deal towards last two months", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1029, "sent_id": 0, "text": "The caption is very adequate description of graph.  Would only add that in 2009-2012 low incident.  2014 to 2016 alarming rate of increased sales correlated to higher (3,000) incidents", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1030, "sent_id": 0, "text": "The graph shows total and net assets by year from 1999 to 2008 in AU$000. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1030, "sent_id": 1, "text": "Values are: 1999 total assets (ta) 175,000, net assets (na)100,000. 2000 ta 205,000, na 190,000; 2001 ta 200,000, na 197,000; 2002 ta 200,000, na 198,000; 2003 ta 250,000, na 205,000; 2004 ta 600,000, na 400,000; 2005 ta 1,000,000, na 760,000; 2006 ta 1,600,000, na 760,000; 2007 ta 1,700,000, na 760,000; 2008 ta 1,800,000, na 750,000.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1031, "sent_id": 0, "text": "The image is of a graph with small circles used to plot the data. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1031, "sent_id": 1, "text": "Both the Y and X axis have the same units, ranging from -3 to 3, for 7 values. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1032, "sent_id": 0, "text": "This is a line graph showing three values: cloture invoked, votes on cloture and cloture motions filed. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1032, "sent_id": 1, "text": "Data values from 1917-1964 are very small, usually zero, but never higher than 5. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1032, "sent_id": 2, "text": "Starting in 1965 values increase with peaks in 1973, 1987, 1997 and 2007. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1033, "sent_id": 0, "text": "A chart showing York City's highest and average league attendance declining gradually between 1932 and 2015.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1034, "sent_id": 0, "text": "A chart comparing the breakdown in population by age for the following regions: England and Wales, County Durham, and Bishop Auckland. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1034, "sent_id": 1, "text": "All three regions have similar breakdowns across ages with all three peaking between the ages of 30-54.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1035, "sent_id": 0, "text": "A chart showing the altitude of InflateSail declining gradually from 470 km to 390 km during August 2017.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1036, "sent_id": 0, "text": "There is a downward trajectory line right left to right. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1036, "sent_id": 1, "text": "The x-axis or height indicates the mean height in kilometers and the y-axis represents a specific time.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1037, "sent_id": 0, "text": "There is a downward trajectory line left to right starting at 480km to 390km. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1037, "sent_id": 1, "text": "The x-axis or height indicates the mean height in kilometers and the y-axis represents a specific time in August 2017.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1038, "sent_id": 0, "text": "There are three bars that each represent a different political party in Canada. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1038, "sent_id": 1, "text": "The height of the bar represents the amount in millions. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1038, "sent_id": 2, "text": "The Conversative Party has raised $17.7 million dollars with $7 million in fundraising expenses. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1038, "sent_id": 3, "text": "The Liberal Party has raised $9.06 million dollars with $2 million in fundraising expenses. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1039, "sent_id": 0, "text": "The graph represents Portugal's Debt in percent of GDP vs Eurozone's average. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1039, "sent_id": 1, "text": "There is a data point for every year from 1999 to 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1039, "sent_id": 2, "text": "Portugal starts off at 51%, lower than Eurozone. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1039, "sent_id": 3, "text": "Between 2006-2008, both Portugal and Eurozone are about the same, hovering near 70%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1040, "sent_id": 0, "text": "There are a total of eighth bars represented as four in the front and four directly behind. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1040, "sent_id": 1, "text": "The four bars in the front represent fundraising expenses, and the four bars in the back represent subsidized contributions raised. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1040, "sent_id": 2, "text": "Each pairing represents a party: conservative, liberal, and new democratic. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1041, "sent_id": 0, "text": "This is a graph that shows the yearly total values: total asset and net assets. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1041, "sent_id": 1, "text": "It is in increments of 200,000, with the maximum being 2,000,000.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1042, "sent_id": 0, "text": "This is a pie chart with five categories: LOHAs, naturalites, drifters, conventionals, and unconcerned.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1043, "sent_id": 0, "text": "A line graph of the York City F.C.'S LEAGUE attendances of Bootham Crescent from 1932 broken down in years", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1044, "sent_id": 0, "text": "a line graph broken down by years showing the closure voting from the us senate from 1917 to 2014", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1045, "sent_id": 0, "text": "a line graph showing the different elections in Croatia from 1992 to 2016", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1046, "sent_id": 0, "text": "Chart showing the change in average orbit height during August 2017. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1046, "sent_id": 1, "text": "There is a decline over the course of the month, starting at 471 km at the beginning of the month and curving downward, ending at 390 km at the end of the month. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1047, "sent_id": 0, "text": "Line chart depicting Sovereign CDS loss of confidence in creditworthiness of 11 EU countries. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1047, "sent_id": 1, "text": "There is pronounced spike in Greece's creditworthiness, climbing from $500,000 in July 2011 to 25 million by February 2012. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1048, "sent_id": 0, "text": "Density chart illustrating Joint range of X {\\displaystyle X} and Y {\\displaystyle Y}. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1048, "sent_id": 1, "text": "Both X & Y axis gets darker and denser as it gets closer to 0,0, creating the appearance of an X at the center (intersecting lines)", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1049, "sent_id": 0, "text": "The image included on this page contains a bar graph depicting a comparison of data from 1987 and 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1049, "sent_id": 1, "text": "The y-axis shows the number of recipients that were described in the caption and spans from 0 to 6 million recipients. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1049, "sent_id": 2, "text": "The x-axis shows the amount of payments the recipients received and spans from 1 to 5 payments. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1050, "sent_id": 0, "text": "The image included on this page contains a bar graph depicting a comparison of data from 1987 and 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1050, "sent_id": 1, "text": "The y-axis shows the number of recipients that were described in the caption, and spans from 0 to 6 million recipients. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1050, "sent_id": 2, "text": "The x-axis shows the amount of payments the recipients received and spans from 1 to 5 payments. 500,000 recipients received 1 payment in 1987 while 1.5 million recipients received 1 payment in 2003. 2.5 million recipients received 2 payments in 1987 while 4 million recipients received 2 payments in 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1050, "sent_id": 3, "text": "Just under 3.5 million recipients received 3 payments in 1987 while just under 6 million recipients received 3 payments in 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1051, "sent_id": 0, "text": "The image on this page features a line graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1051, "sent_id": 1, "text": "The y-axis shows the Debt in Percent of GDP ranging from 0 to 150% in increments of 50. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1051, "sent_id": 2, "text": "The x-axis shows Years from 1999 to 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1052, "sent_id": 0, "text": "The image on this page features a line graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1052, "sent_id": 1, "text": "The y-axis shows the Debt in Percent of GDP, ranging from 0 to 150%, in increments of 50. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1052, "sent_id": 2, "text": "The x-axis shows Years from 1999 to 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1053, "sent_id": 0, "text": "The image on this page features a bar graph comparing the three counties listed in the caption. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1053, "sent_id": 1, "text": "The y-axis show the Percentage of the Population while the x-axis shows the Age Groups. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1053, "sent_id": 2, "text": "The percentages range from 0 to 9% in increments of 1. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1054, "sent_id": 0, "text": "A bar graph showing the declining population", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1055, "sent_id": 0, "text": "A bar graph showing population growth increasing over time with a few periods of modest decreasing", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1056, "sent_id": 0, "text": "A combination of different graphs on a single chart, including red and pink bars, a blue line, and blue dots. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1057, "sent_id": 0, "text": "Yearly population of Tiilerilaaq from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1058, "sent_id": 0, "text": "Data from 2009 to 2016 which shows a positive correlation between the number of injuries from e-cigarette explosions and fires and e-cigarette sales trend.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1059, "sent_id": 0, "text": "This bar graph shows the population growth in Ikerasaarsuk from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1059, "sent_id": 1, "text": "There was a spike in growth in the late 1990s.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 0, "text": "In 1991, the population growth 209. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 1, "text": "In 1992, it was 181. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 2, "text": "In 1992, it was 179. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 3, "text": "In 1994, it was 192. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 4, "text": "In 1995, it was 176. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 5, "text": "In 1996, it was 163. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 6, "text": "In 1997, it was 153. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 7, "text": "In 1998, it was 155. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 8, "text": "In 1999, it was 155. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 9, "text": "In 2000, it was 146. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1060, "sent_id": 10, "text": "In 2001, it was 152. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1061, "sent_id": 0, "text": "The above bar graph shows the early initiation of breastfeeding in some Asian countries. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1061, "sent_id": 1, "text": "In India, the percentage is 41.5. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1061, "sent_id": 2, "text": "In Pakistan, it is 18%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1061, "sent_id": 3, "text": "In Sri Lanka, the percent is 90.3. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 0, "text": "The above graph shows the population growth of Ikerasaarsuk. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 1, "text": "In 1991, it was 79. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 2, "text": "In 1992, it was 77. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 3, "text": "In 1993, it was 83. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 4, "text": "In 1994, it was 91. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 5, "text": "In 1995, it was 102. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 6, "text": "In 1996, it was 101. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 7, "text": "In 1997, it was 113. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 8, "text": "In 1998, it was 117. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 9, "text": "In 1999, it was 116. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1062, "sent_id": 10, "text": "In 2000, it was 121. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1063, "sent_id": 0, "text": "Tiilerilaaq growth in population from 1991-2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1064, "sent_id": 0, "text": "Ikerasaarsuk population growth from 1991 - 2010 by year", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1065, "sent_id": 0, "text": "density fxn joint range x and y values", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1066, "sent_id": 0, "text": "This image is more of a graph of Tiilerilaaq Population.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1067, "sent_id": 0, "text": "This image is more of a graph of Tiilerilaaq Population.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1068, "sent_id": 0, "text": "Ernie Toshack's First class batting performance highs and lows.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1069, "sent_id": 0, "text": "Ikerasaarsuk/Population growth dynamics from 1991 thru 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1070, "sent_id": 0, "text": "The image is a chunky bar graph which compares the fundraising expenses with the contributions raised. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1070, "sent_id": 1, "text": "It shows 4 comparisons , Canada's Canservative party, the Liberal Party andthe New Democratic Party. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1071, "sent_id": 0, "text": "The Image is a bar graph with year by year across the bottom; 1991 through 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1071, "sent_id": 1, "text": "The bar for each year represents the population of Ikerasaarsuk  of last two decades. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1071, "sent_id": 2, "text": "The chart shows 1991 to have a value of 79. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1072, "sent_id": 0, "text": "The Image is a bar graph with year by year across the bottom; 1991 through 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1072, "sent_id": 1, "text": "The bar for each year represents the population of Ikerasaarsuk. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1072, "sent_id": 2, "text": "The chart shows 1991 to have a value of 79. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1073, "sent_id": 0, "text": "This image is a bar graph labeled Tiilerilaaq population growth dynamics in the last two decades.  The bottom of the chart is year by year 1991 through 2010, and title is a but of a misnomer , because the population definitelu dwindled. 1991 was 209 and 2010 was 134. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1074, "sent_id": 0, "text": "This image is a bar graph labeled Tiilerilaaq population growth dynamics in the last two decades.  The bottom of the chart is year by year; 1991 through 2010, and title is a bit of a misnomer , because the population definitelu dwindled. 1991 was 209 and 2010 was 134. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1075, "sent_id": 0, "text": "Decreasing values from 20 to 134 from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1076, "sent_id": 0, "text": "Conventionals are highest at 26 and Lohas lowest at 17. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1076, "sent_id": 1, "text": "Others are 19", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1077, "sent_id": 0, "text": "Increased drastically from 91 to 97 then stable until 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1078, "sent_id": 0, "text": "The image above shows the Croatian parliamentary results of any party winning 10 or more seats in any election during that time frame.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1079, "sent_id": 0, "text": "The image shows the population growth dynamics in Nanortalik. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1079, "sent_id": 1, "text": "There was a jump in population growth between 1992 til 1996, and population growth has remained steady ever since until recently.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1080, "sent_id": 0, "text": "It shows the values of 2 cumulative distribution functions F(x) and G(x).", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1081, "sent_id": 0, "text": "A graph using blue bars show the population for growth dynamics for Nanortalik. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1081, "sent_id": 1, "text": "The years for the bars start at 1991 and end at 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1082, "sent_id": 0, "text": "The line graph, displaying one blue line and one red line, show molecular coefficients of eumelanin and pheomelanin. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1082, "sent_id": 1, "text": "The x axis starts at 200 and goes up every 100 to 900; the y axis starts at 10 to the power of one until it gets to 10 to the power of 5. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1083, "sent_id": 0, "text": "I do not know how to describe this as this is not something I am familiar with.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1084, "sent_id": 0, "text": "The image is a dot line graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1084, "sent_id": 1, "text": "On the Y axis are numbers from 380 to 490 in intervals of 10. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1084, "sent_id": 2, "text": "The X axis is listed as Aug 2017. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1085, "sent_id": 0, "text": "The image is a series of columns or bars that show the population growth dynamics by year, from 1991-2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1085, "sent_id": 1, "text": "The data show the following:\n1991 - 1.441\n1992 - 1.483\n1993 - 1.499\n1994 - 1.508\n1995 - 1.564\n1996 - 1.527\n1997 - 1.541\n1998 - 1.506\n1999 - 1.516\n2000 - 1.538\n2001 - 1.506\n2002 - 1.544\n2003 - 1.549\n2004 - 1.529\n2005 - 1.509\n2006 - 1.476\n2007 - 1.450\n2008 - 1.445\n2009 - 1.430\n2010 - 1.448", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1086, "sent_id": 0, "text": "The image shows a series of bars or columns showing the population growth dynamics by years. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1086, "sent_id": 1, "text": "The data show:\n1991 - 79\n1992 - 77\n1993 - 83\n1994 - 91\n1995 - 102\n1996 - 101\n1997 - 113\n1998 - 117\n1999 - 116\n2000 - 121\n2001 - 116\n2002 - 110\n2003 - 118\n2004 - 123\n2005 - 121\n2006 - 124\n2007 - 113\n2008 - 109\n2009 - 103\n2010 - 106", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1087, "sent_id": 0, "text": "This image depicts a graph showcasing the following  formula: y = x 3 s ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1088, "sent_id": 0, "text": "This image depicts a graph showing the Nanortalik population growth dynamics from 1991-2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1088, "sent_id": 1, "text": "The growth dynamics have a small variance year by year. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1089, "sent_id": 0, "text": "This image depicts a graph of the Nanortalik population growth dynamics from 1991-2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1089, "sent_id": 1, "text": "In 1991 the number was 109. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1089, "sent_id": 2, "text": "In 2010 the number is 134. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1090, "sent_id": 0, "text": "The image above depicts two curved functions--one is lined in blue, and one is lined in red--that intersect each other in the middle. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1090, "sent_id": 1, "text": "Both run diagonally from left to right in a single curved path, though the red line's curve is skinnier than the blue line's curve.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1091, "sent_id": 0, "text": "The above graph depicts the seasonal variation of reports of rotavirus A infections. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1091, "sent_id": 1, "text": "The graph shows months of July, November, and March spanning the years 2000 to 2012. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1092, "sent_id": 0, "text": "The graph above depicts two lines that portray the molar extinction coefficients of eumelanin and pheomelanin. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1092, "sent_id": 1, "text": "One line is red and one line is blue, and they both exhibit a negative linear trend. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1092, "sent_id": 2, "text": "However, the red line's negative slope is steeper than that of the blue. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1093, "sent_id": 0, "text": "The picture is of a line graph measuring \"wavelength\" and \"Molecular Extinction Coefficient\". ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1093, "sent_id": 1, "text": "The properties being tested are \"Eumelanin\" and \"Pheomelanin\". ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1094, "sent_id": 0, "text": "The graph shows the Orbit Height starting at 475 km and decreasing rapidliy throughout August, ending at 385 Km", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1095, "sent_id": 0, "text": "Line graph demonstrating single crossing at the 0.5 point and 0 Point. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1095, "sent_id": 1, "text": "Halfway through the graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1096, "sent_id": 0, "text": "The data visualization shows an erratic trend of variation, as it goes up and down repeatedly. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1096, "sent_id": 1, "text": "For example, it appears that from the period from Nov. to Jul., it peaks, while the rates of infection lower starting in July to November. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1096, "sent_id": 2, "text": "The data is from July 2000 to March. 2012. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1097, "sent_id": 0, "text": "This visualization shows an average height using km. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1097, "sent_id": 1, "text": "It starts between 470 to 480. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1097, "sent_id": 2, "text": "There is a downward trend all the way down to under 390. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1098, "sent_id": 0, "text": "In this data visualization, the F(x) and G(x) only cross between .4 and .6. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1098, "sent_id": 1, "text": "The lines do not cross at any other point. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1099, "sent_id": 0, "text": "This shows population increase and decrease between the years of 1991 and 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1100, "sent_id": 0, "text": "The graph shows certain numbers. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1100, "sent_id": 1, "text": "Solve for y", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1101, "sent_id": 0, "text": "This showsthe population by age ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1102, "sent_id": 0, "text": "There is a graph with two curves. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1102, "sent_id": 1, "text": "The G(x) curve is blue and the F(x) is red. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1102, "sent_id": 2, "text": "Both curves are S curves, and cross each other at one section in the middle. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1103, "sent_id": 0, "text": "There is a graph with two curves. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1103, "sent_id": 1, "text": "The G(x) curve is blue and the F(x) is red. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1103, "sent_id": 2, "text": "Both curves are S curves, and cross each other at one section in the middle. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1104, "sent_id": 0, "text": "There is a graph with many peaks and troughs from 1890 to 2010, indicating annual flow volume. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1104, "sent_id": 1, "text": "The first portion on the left of the line is red, indicating LaRue volumes in 1925. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1104, "sent_id": 2, "text": "The middle portion is green, indicating Lee's Ferry volume. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1104, "sent_id": 3, "text": "The last portion on the right indicates Lake Powell inflows. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1105, "sent_id": 0, "text": "There are a bunch of points on the graph that are going downward. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1105, "sent_id": 1, "text": "The peak height was around 470km. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1105, "sent_id": 2, "text": "The first half of the points are gradually declining indicating that the orbit height is decreasing. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1106, "sent_id": 0, "text": "There are a bunch of points on the graph that are going downward. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1106, "sent_id": 1, "text": "The peak height was around 470km. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1106, "sent_id": 2, "text": "The first half of the points are gradually declining indicating that the orbit height was decreasing over time. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1107, "sent_id": 0, "text": "The image depicts an x/y graph with the date going up to 2 on the y-axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1107, "sent_id": 1, "text": "On the x-axis, the data has a large rise from 0 to 2, then has a steady minimal increase for the remaining values (4,6,8). ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1108, "sent_id": 0, "text": "Bar graph in blue depicting the years 1991 through 2010 in relation to growth of a specific population. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1108, "sent_id": 1, "text": "The values are as follows: 209 in 1991, 101 in 1992, 179 in 1993, 192 in 1994, 176 in 1995, 163 in 1996, 153 in 1997, 155 in 1998 and 1999, 146 in 2000, 152 in 2001, 155 in 2002, 151 in 2003, 160 in 2004, 148 in 2005, 165 in 2006, 138 in 2007, 146 in 2008, 132 in 2009, and 134 in 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1109, "sent_id": 0, "text": "Bar Graph depicting percentage of population on the y-axis and age groups on the y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1109, "sent_id": 1, "text": "The data includes bars for 3 different populations: England and Wales, County Durham, and Bishop Auckland.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1110, "sent_id": 0, "text": "This is a graph of a square root function equation", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1111, "sent_id": 0, "text": "This is a graph demonstrating the discharge volumes of the Colorado River at Lee's Ferry. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1111, "sent_id": 1, "text": "The discharge trend line is steadily decreasing. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1112, "sent_id": 0, "text": "This is a bar chart demonstrating the population growth dynamics of Nanortalik. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1112, "sent_id": 1, "text": "The population peaked between 2000-2006 and has been decreasing since then", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1113, "sent_id": 0, "text": "There is an increase in the seasonal variation of rotavirus A infections in a region of England during the winter times. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1113, "sent_id": 1, "text": "It peaks starting mid November to late June.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1114, "sent_id": 0, "text": "This does not show any information regarding what data it's studying.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1115, "sent_id": 0, "text": "The wavelength of near-infrared light is more efficiently than visible light because these penetrate tissue and can absorb less light at longer wavelengths.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1116, "sent_id": 0, "text": "The article demonstrates \"Annual Colorado River discharge volumes at Lee's Ferry between 1895 and 2004\" The volume decreases overtime. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1116, "sent_id": 1, "text": "There are four polls.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1117, "sent_id": 0, "text": "There is a graph of some math equation(y = x 3) and it is a positive and constant slope but it is difficult to understand as there is not much details on the x axis and the line doesn't match the points. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1118, "sent_id": 0, "text": "There are lines on the graph that represent different parties, some are winning a lot of seats and others arent. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1118, "sent_id": 1, "text": "HDZ is much higher than HNS, HSS, and HSLS.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1119, "sent_id": 0, "text": "The graph shows the correlation between wavelength and molecular extinction coefficient (MEC) of Eumelanin and pheomelanin. \nThe wave length starts at 200 nanometers and increases to 900. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1119, "sent_id": 1, "text": "The molecular extinction coefficient (MEC) starts at 10^1 and ends at 10^5 \nAs the wavelength increases the MEC drops for both. \nThe phenomelanin starts off just over 10^4 and the eumelanin just below 10^4\nThey both start around 215 wavelength and end at around 830\nThe eumelanin\u2019s MEC stops halfway between 10^2 and 10^3\nThe pheomelanin ends over the halfway point(60%) between 10^1 and 10^2\nThe eumelanin has a steady decrease while the pheomelanin has a few drops at the halfway point.\n", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1119, "sent_id": 2, "text": "Theyboth meet at the 500 nanometers just over 10^3, this is where the pheomelanin starts to drop below the Eumelanin \nthe pheomelanin show a slight rise in MEC at 590 nanometers followed by a steady decline.\n", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1119, "sent_id": 3, "text": "At 750 nm it jumps up to a peak at 760 nm and return at 790 nm.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 0, "text": "The graph shows the correlation between wavelength and molecular extinction coefficient (MEC) of Eumelanin and pheomelanin. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 1, "text": "The wave length starts at 200 nanometers and increases to 900. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 2, "text": "The molecular extinction coefficient (MEC) starts at 10^1 and ends at 10^5. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 3, "text": "As the wavelength increases the MEC drops for both. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 4, "text": "The phenomelanin starts off just over 10^4 and the eumelanin just below 10^4. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 5, "text": "They both start around 215 wavelength and end at around 830. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 6, "text": "The eumelanin\u2019s MEC stops halfway between 10^2 and 10^3. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1120, "sent_id": 7, "text": "The pheomelanin ends 60% between 10^1 and 10^2.\n", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1121, "sent_id": 0, "text": "England and Wales has the highest population age group between 20-34. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1121, "sent_id": 1, "text": "County Durham has the highest population between 15-19 and 55-69. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1121, "sent_id": 2, "text": "Bishop Aukland has the most 5-9, 35-39 and 50-54. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1122, "sent_id": 0, "text": "The graph goes from 0-8 on the X axis and 2 on the Y Axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1122, "sent_id": 1, "text": "The graph shows a rise until about 2x where the rate of growth diminishes, never reaching 2y.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1123, "sent_id": 0, "text": "Change in mean height, in kilometers, of sail inflation during August 2017.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1124, "sent_id": 0, "text": "Change in average height, in kilometers, of sail inflation during August 2017.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1125, "sent_id": 0, "text": "The molecular extinction coefficient(cm/M) by wavelength(nm) of eumelanin and pheomelanin. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1125, "sent_id": 1, "text": "The axis ranges from 200 to 900nm. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1126, "sent_id": 0, "text": "Tileriaaq population from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1127, "sent_id": 0, "text": "grid charges are 25.1 %, power generation or acquisition sales are at 22.4%, renewable surcharge is 21.5%, value added tax is 16%, electricity tax is 6.5%, concession fee 5%, and other levies are at 3.2%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1127, "sent_id": 1, "text": "Taxes, levies and surcharges are at a total of 53%.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1128, "sent_id": 0, "text": "Graph showing population vs age groups from 0 to 90+. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1128, "sent_id": 1, "text": "Population of all three is highest in the groups 30 to 54, then dips significantly after.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1129, "sent_id": 0, "text": "Seasonally, uptick happens around November, in the range between 4000 and 5000, reaching a high of over 6000 in March of \u201810.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1130, "sent_id": 0, "text": "A bar chart spanning from 1991 to 2010. 1991's population was 79, 1992's was 77, 1993's was 83, 1994's was 91, 1995's was 102, 1996's was 191, 1997's was 113, 1998's was 117, 1999's was 116, 2000's was 121, 2001's was 116, 2002's was 110, 2003's was 118, 2004's was 123, 2005's was 121, 2006's was 124, 2007's was 113, 2008's was 109, 2009's was 103, and 2010's was 106.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1131, "sent_id": 0, "text": "A bar chart of some Asian countries and their percentage of early initiation of breastfeeding. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1131, "sent_id": 1, "text": "India is 41.5%, Pakistan is 18%, Sri Lanka is 90.3%, Bangladesh is 50.8%, Nepal is 54.9%, and China is 26.4%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1132, "sent_id": 0, "text": "Two cumulative distribution functions F(x) and G(x). ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1132, "sent_id": 1, "text": "Both of them start at (0.0, -4)and rise up at different paces until they intersect at (0.5, 0) and they converge again and then intersect once more at (1.0, 2).", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1133, "sent_id": 0, "text": "graph with the x axis being numbered from 0 to 8 and the y axis being numbered from 0 to 4. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1133, "sent_id": 1, "text": "There is a red line that slopes upward than flatten around (1,1)", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1134, "sent_id": 0, "text": "The x axis is labeled age groups. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1134, "sent_id": 1, "text": "The y axis is labeled % of population. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1135, "sent_id": 0, "text": "This is a circle graph that contains values of grid charges (25,1%) power generation or acquisition, sales (22,4%), electricity tax (6,5%) value added tax (16%) taxes, levies, surcharges (53%) other levies (3,2%), concession fee (5,5%).", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1136, "sent_id": 0, "text": "Line graph depicting the changes in flow volume of the Colorado River", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1137, "sent_id": 0, "text": "Graph depicting the variation in cases of rotavirus A infections in a region of England. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1137, "sent_id": 1, "text": "Infection peaks during the winter.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1138, "sent_id": 0, "text": "Pie chart breaking down how much of a power bill is used for each line item to keep the service running.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1139, "sent_id": 0, "text": "throughout august 2017, the change in anverage orbit height decreases", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1140, "sent_id": 0, "text": "The annual flow volume of Colorado River decreases from 1895 to 2004", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1141, "sent_id": 0, "text": "The Tilerilaaq population growth has overall decreased from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1142, "sent_id": 0, "text": "The different average values and prices of a household in Germany", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1143, "sent_id": 0, "text": "Rates of the seasonal rotavirus A infection in England, infection always peaks during colder weather ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1144, "sent_id": 0, "text": "Growth of the Tiilerilaaq population in the last two decades has substantially slowed down", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1145, "sent_id": 0, "text": "It is a graph with a lot of variation of information", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1146, "sent_id": 0, "text": "graph showing the average electricity in Germany", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1147, "sent_id": 0, "text": "Nanortalik population growth graphs, 1991-2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1148, "sent_id": 0, "text": "Graph of early initiation of breasfeeding in various countries. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1148, "sent_id": 1, "text": "India 41.5%, Pakistan 18%, Sri Lanka 90.3%, Bangladesh 50.8%, Nepal 54.9%, china 26.4%", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1149, "sent_id": 0, "text": "Graph of early initiation of breastfeeding in various countries. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1149, "sent_id": 1, "text": "India 41.5%, Pakistan 18%, Sri Lanka 90.3%, Bangladesh 50.8%, Nepal 54.9%, china 26.4%", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1150, "sent_id": 0, "text": "Example of two cumulative distribution functions F(x) and G(x) which satisfy the single-crossing condition. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1150, "sent_id": 1, "text": "F(x) and G(x) are the same", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1151, "sent_id": 0, "text": "Annual flow volume up to 25 million of acre feet, against years from 1890 to 2010. 1900 has early 20th century drought, also noted 1930's drought, mid-century drought and early 21st century drought. scribbley lines.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1152, "sent_id": 0, "text": "The image shows a graph of the increase in growth dynamics in the last two decades. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1152, "sent_id": 1, "text": "The image shows blue blocks parallel to each other, blocks varying in sizes depending on the the size of the population growth in a specific year. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1153, "sent_id": 0, "text": "The image shows a graph with individual lines mapped horizontally. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1153, "sent_id": 1, "text": "There are six lines each representing a party. \nHDZ: dark blue\nSDP: red\nHNS: orange\nHSLS: yellow\nHSS: green\nMOST: orange\nOthers: gray\nThe left side is a vertical row listing the number of wins. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1153, "sent_id": 2, "text": "The bottom of the graph shows the years of each party. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1154, "sent_id": 0, "text": "The image shows a graph of one red line representing data points. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1154, "sent_id": 1, "text": "The left vertical numbers are the y axis I assume, and the bottom horizontal numbers represent the x axis in the equation.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1155, "sent_id": 0, "text": "From ages 0 to 19 the percent of populations are relatively close. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1155, "sent_id": 1, "text": "From 20-29 Bishop Auckland begins to fall behind. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1155, "sent_id": 2, "text": "From 30-59 the percentages barely fluctuate. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1156, "sent_id": 0, "text": "There are 7 components to the electricity price average for household consumers in Germany. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1156, "sent_id": 1, "text": "Renewable surchage makes up 21.5% of the total. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1156, "sent_id": 2, "text": "Other levies make up 3.2%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1156, "sent_id": 3, "text": "The concession fee makes up 5.5%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1156, "sent_id": 4, "text": "The Grid charges make up 25.1%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1157, "sent_id": 0, "text": "Through the months between November and July the cases of rotavirus A infections skyrocket through the winter and spring. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1157, "sent_id": 1, "text": "These cases reach its peak in march of every year rarely falling bellow 4,000 cases at this peak. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1158, "sent_id": 0, "text": "There is a chart graph depicting numbers charged for early initiation of breastfeeding in again countries", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1159, "sent_id": 0, "text": "There is a bar graph with the statistics for Nanortalik population growth dynamics from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1160, "sent_id": 0, "text": "There is a circular graph detailing the statistics of components of the German electricity price for households components in 2020", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1161, "sent_id": 0, "text": "a graph of early initiation of breast feeding in Asian countries. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1161, "sent_id": 1, "text": "Sri Lanka, percentage wise, is at 90.3%, Nepal is 54.9%, Bangladesh is 50.8%, India is 41.5%, China is 26.4%, and Pakistan is 18%.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1162, "sent_id": 0, "text": "A pie chart of the percentage of the general population in NMI by defined consumer segments. 26% is conventionals, 19% is unconcerned, 19% is naturalites, 19% is drifters, and 17% is LOHAS.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1163, "sent_id": 0, "text": "A graph of e-cigarette sales and number of incidents from 2009-2016. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1163, "sent_id": 1, "text": "There is a huge uptake in sales and incidents starting in 2013.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1164, "sent_id": 0, "text": "a circle graph depicting a total of 31,47 cent kwh, the average electricity price for household consumers in Germany. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1164, "sent_id": 1, "text": "Divided as follows: grid chargers 7,91 ct kwh. power generation or ; aquisition sales: 7,06 ct kwh. renewable surcharge:21.5%. value added tax:16%. electricity tax 6.5%. other levies 5.5%", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1165, "sent_id": 0, "text": "line graph depicting y=x 3 s", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1166, "sent_id": 0, "text": "pie graph depicting lohas 17 percent, naturalities 19%, drifters 19%, conventionals 26 percent, unconcerned 19 %", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1167, "sent_id": 0, "text": "It is a bar graph showing evaluation of people and mental illness in 1987 when Prozac was introduced vs 2003 when Prozac was readily available", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1168, "sent_id": 0, "text": "It\u2019s just showing a company\u2019s total assets vs net assets from 1999 to 2008. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1168, "sent_id": 1, "text": "Total assets are greater than net assets.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1169, "sent_id": 0, "text": "Showing a line graph of Georgetown university enrollment from 1791-1888", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1170, "sent_id": 0, "text": "A bar graph comparing numbers of Americans who received SSDI and SSI in 1987 and 2003", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1171, "sent_id": 0, "text": "Bar graph showing Nutaariut population changes years from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1172, "sent_id": 0, "text": "Bar graph showing Nutaariut population changes by year from 1991 to 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1173, "sent_id": 0, "text": "Line graph showing changes in the rate of enrollment for the Academy and College, the Medical School, and the Law School of Georgetown University  from 1791 to 1888", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1174, "sent_id": 0, "text": "Graph shows average attendance increased during initial years then ovarall flat to decreasing trend in attendance from about 1980 onwards.  Large fluctuations in attendance during the first 40 years.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1175, "sent_id": 0, "text": "The number of people receiving benefits for metal illness doubled between 1987 and 2003.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1176, "sent_id": 0, "text": "Student enrollment at Georgetown increased 6x from 1791 - 1888 (from around 75 student to 450 student).  General Academy & College student increased about 2.5x during that time, while remaining increase was due to addition of medical school in 1851 and law school in 1871.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1177, "sent_id": 0, "text": "The data states that cloture invoking, vontes on cloture, & cloture motions filed all peaked then dropped from 2007-2008", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1178, "sent_id": 0, "text": "In this visualization Ernie TOshak's batting performance in the 1948 England tour got very close to 20 late July", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1179, "sent_id": 0, "text": "All three schooling options on this visualization (Academy/College, Medical School, & Law School)have spiked in 1888", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1180, "sent_id": 0, "text": "The graph shows a downward trend in averages and highest league attendances. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1180, "sent_id": 1, "text": "Highest attendance was around 20,000 between 1948-49 with corresponding average of 10,000. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1181, "sent_id": 0, "text": "This graph demonstrates a steady amount of net assets and total assets around 200,000 between 2000 and 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1181, "sent_id": 1, "text": "The total assets then increased with a steady amount from 200000 to 1800000 between 2004 to 2008. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1182, "sent_id": 0, "text": "This is a bar graph comparison between 5 groups of individuals in 1987 and 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1182, "sent_id": 1, "text": "The first group of individuals were SSDI recipients disabled by mental illness and showed 900,000 individuals in 1987 compared to 2,800,000 in 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1182, "sent_id": 2, "text": "Group 2 were SSI recipients with diagnosis of mental illness and in 1987 the number was around 2,500,000 and in 2003 it was 4,000,000. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1182, "sent_id": 3, "text": "For Total number of SSI and SSDI payments to disabled mental illness individuals it was 3,100,000 in 1987 and 5,800,000 in 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1183, "sent_id": 0, "text": "A bar graph showing fundraising expenses in gray and subsidized contributions raised in blue. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1183, "sent_id": 1, "text": "For each party the dollar amounts vary but the subsidized contributions are always higher.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1184, "sent_id": 0, "text": "This is a graph showing the cloture motions filed, votes on cloture, and cloture invoked per year in the U.S. senate since 1917. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1184, "sent_id": 1, "text": "The number of all three events increased over time.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1185, "sent_id": 0, "text": "This is a bar graph showing the change in Nutaarmiut population from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1186, "sent_id": 0, "text": "The total assets and net assets values across the years", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1187, "sent_id": 0, "text": "SSDI and SSI recipient in 1987 and 2003", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1188, "sent_id": 0, "text": "The growth of population, the last two decades in Nataarmiut", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1189, "sent_id": 0, "text": "A graph with 3 lines for goergetown law, med and college admissions", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1190, "sent_id": 0, "text": "A graph showing total and net assets for great southern group", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1191, "sent_id": 0, "text": "a bar graph from May to august on the X axis and batting performance on the Y axis", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1192, "sent_id": 0, "text": "Bar graph of the number of Americans who received SSDI and SSI in 1987", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1193, "sent_id": 0, "text": "A chart showing the increasing amount of cloture voting in the past 100 years", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1194, "sent_id": 0, "text": "Chart showing the number of people who enrolled at Georgetown for different degrees from 1791-1888", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1195, "sent_id": 0, "text": "Growth of student body at Georgetown overtime", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1196, "sent_id": 0, "text": "Nutaarmiut population over time", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1197, "sent_id": 0, "text": "Nutaarmiut population over the last 20 years has fluctuated significantly", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1198, "sent_id": 0, "text": "3d bar graphs with transparent black bars of fundraising costs in front and blue 3d bars party-level contributions behind", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1199, "sent_id": 0, "text": "simple 2d bar graph by year 1991-2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1200, "sent_id": 0, "text": "simple 2d bar graph by year 1991-2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1201, "sent_id": 0, "text": "bar graph that shows population over 20 years. fluctuates from 58 to start and down to 36 at the end. goes up and down in the middle", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1202, "sent_id": 0, "text": "line graph that compares highest to average attendance. starts higher then had a downward trend", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1203, "sent_id": 0, "text": "line graph that shows student enrollment with the university, med school and law school. all fluctuate a lot", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1204, "sent_id": 0, "text": "Image is of a chart titled \"Great Southern Group assets\" with years on the x axis and asset value in AUS on the y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1204, "sent_id": 1, "text": "Total assets is in red and net is in green. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1205, "sent_id": 0, "text": "The chart titled \"Cloture Voting, U.S. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1205, "sent_id": 1, "text": "Senate, since 1917\" shows years in 1 year increments on the X axis and votes on the Y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1205, "sent_id": 2, "text": "Cloture invoked, votes on cloture, and cloture motions filed are all measured. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1206, "sent_id": 0, "text": "The chart titled \"York City F.C.'s league attendances at Bootham Crescent from 1932\" tracks highest and average attendance over time. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1206, "sent_id": 1, "text": "The X axis is years and the Y axis is attendance. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1207, "sent_id": 0, "text": "Line graph depicting cloture voting in the United States Senate from 1917-2014. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1207, "sent_id": 1, "text": "Visualizes three lines: cloture motions filed, votes on cloture, and cloture invokes.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1208, "sent_id": 0, "text": "The image is a bar graph showing Ernie Roshack's first-class batting performace during the 1948 England tour. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1208, "sent_id": 1, "text": "There are pink bars that represent runs scored during first-class innings. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1208, "sent_id": 2, "text": "The red bars represent Test innings. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1208, "sent_id": 3, "text": "There are 12 spots for bars to be- in which there are 11. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1209, "sent_id": 0, "text": "A line chart indicating the average and highest league attendances at Bootham Crescent from the 1932-2015 seasons. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1209, "sent_id": 1, "text": "There is a blue line representing the highest attendance, and a black line representing the average for each season.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1210, "sent_id": 0, "text": "The graph includes Academy and College starting in 1791, Medical School starting in 1851, and Law School starting in 1871", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1211, "sent_id": 0, "text": "In 1991 the population was 126. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1211, "sent_id": 1, "text": "In 1992 it was 152. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1212, "sent_id": 0, "text": "The graph includes cloture motions filed peaking at 140 in 2007-2008, votes on cloture peaking at 110 in 2007-2008, and cloture invoked peaking at approximately 61 in 2009-2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1213, "sent_id": 0, "text": "Enrollment grew over time for Academy & College and Law School, while enrollment fell and rose again for medical school. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1213, "sent_id": 1, "text": "Enrollment is volatile.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1214, "sent_id": 0, "text": "Two time series are displayed: Highest with mean approximately 10000 and Average with mean approximately 5000.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1215, "sent_id": 0, "text": "More Americans received SSDI and SSI for mental disability in 2003 than in 1987 and not many SSDI recipients also received an SSI payment.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1216, "sent_id": 0, "text": "A graph of Great Southern Group assets.  It shows their net and total assets from 1999 to 2008.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1217, "sent_id": 0, "text": "A graph showing Georgetown University Enrollment from 1791 to 1888.  It shows Academy and College, Medical School, and Law School enrollments.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1218, "sent_id": 0, "text": "A bar graph displaying Nutarrmiut population over the years of 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1219, "sent_id": 0, "text": "Steady rise from $200,000 in 1999 to a peak of $1.8m in 2008", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1220, "sent_id": 0, "text": "The conservative party is shown to have $19 fundraising cost, Liberal party has $9, New Democratic party has $4, and the total top 3 parties have $30.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1221, "sent_id": 0, "text": "The attendance rises from below 5000 and peaks at 22000, then begins to fluctuate until it drops up 4000 again.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1222, "sent_id": 0, "text": "line graph showing changes in enrollment for Georgetown University between 1791-1888 with the year on the x axis and the number of students on the y axis", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1223, "sent_id": 0, "text": "line graph depicting Great Southern Group assets by year from 1999-2008. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1223, "sent_id": 1, "text": "Total assets and net assets are plotted on the same chart to show that net assets lag considerably behind total assets beginning in 2004.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1224, "sent_id": 0, "text": "line graphs depicting York City FCs league attendance at Bootham Crescent from 1932 through 2012.  Two lines are shown - one depicting the highest attendance and one depicting the average attendance.Year is shown on the x axis and attendance is shown on the y axis.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1225, "sent_id": 0, "text": "There is a graph with thick blue lines. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1225, "sent_id": 1, "text": "They have the years across the bottom of the graph that are from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1225, "sent_id": 2, "text": "Each year has a thick blue line coming from it that has a number above the blue line. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1226, "sent_id": 0, "text": "There is a graph with thick blue lines that connect to a year and the growth that year had. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1226, "sent_id": 1, "text": "Here is the and number for each year.\n1991=126\n1992=152\n1993=163\n1994=189\n1995=188\n1996=203\n1997=212\n1998=202\n1999=211\n2000=198\n2001=196\n2002=214\n2003=185\n2004=177\n2005=180\n2006=183\n2007=190\n2008=173\n2009=173\n2010=188", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1227, "sent_id": 0, "text": "There is a line graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1227, "sent_id": 1, "text": "On the side it has the attendance number that goes from 0 to 25000. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1227, "sent_id": 2, "text": "On the bottom of the graph is shows the years form 1932 to 2015. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1227, "sent_id": 3, "text": "The graph shows that average attendance peaked in 1948 and 1954. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1228, "sent_id": 0, "text": "The image is a graph with two separate parts to it.\n", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1228, "sent_id": 1, "text": "On the left side of the graph it shows the funds raised from 0 to 30 million. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1228, "sent_id": 2, "text": "On the bottom of the graph it shows the names of the parties. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1228, "sent_id": 3, "text": "They are form left to right: Conservative Party, Liberal Party, New Democratic Party, and the last is Total(top 3 parties). ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1228, "sent_id": 4, "text": "The graph has two different color blocks representing different things. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1228, "sent_id": 5, "text": "Grey=fundraising expenses\nBlue=subsidized contributions raised.\n", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1229, "sent_id": 0, "text": "Great Southern Group assets started at net assets and total assets below 200,000 in 1999. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1229, "sent_id": 1, "text": "Both assets stayed around 200,000 till 2003. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1229, "sent_id": 2, "text": "Net assets started to grow gradually to 800,000 in 2005. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1230, "sent_id": 0, "text": "Nutaarmiut population varied over the time, with lowest 126 in 1991, highest 214 in 2002.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1231, "sent_id": 0, "text": "Cloture voting stay low from 1917 to 1968. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1231, "sent_id": 1, "text": "Then gradually increased with a few spikes in 1973-1974, 1987-1988. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1232, "sent_id": 0, "text": "A line graph with Molecular extinction coefficient on the y axis and wavelength on the x axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1232, "sent_id": 1, "text": "The blue decreasing line represents eumelanin and the red decreasing line represents pheomelanin", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1233, "sent_id": 0, "text": "This is a bar graph with the year on the x axis and the population on the y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1233, "sent_id": 1, "text": "The years range from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1234, "sent_id": 0, "text": "This is a bar graph with the year on the x axis and the population on the y axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1234, "sent_id": 1, "text": "The years range from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1235, "sent_id": 0, "text": "This is a line graph with the the number of elections on the y axis and the year on the x axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1235, "sent_id": 1, "text": "The lines on the graph vary but there are 7 lines total", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1236, "sent_id": 0, "text": "This graph shows the debt in percentage of GDP from 1999 to 2019 for Portugal and the Eurozone average.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1237, "sent_id": 0, "text": "Every march of each year there is a spike in rotavirus A infections in England", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1238, "sent_id": 0, "text": "There are two functions, f(x) in red and g(x) in blue they are in line form from the values x=-4 thorugh x=4", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1239, "sent_id": 0, "text": "A graph showing molecular coefficient. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1239, "sent_id": 1, "text": "A blue line representing \"Eumelanin\" A red line representing  \"Pheomelanin\"  ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1240, "sent_id": 0, "text": "A graph of bars showing Nanortalik population by year. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1240, "sent_id": 1, "text": "Years start from 1991 and end at 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1241, "sent_id": 0, "text": "A graph showing E-cigarettes fires and explosions by year. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1241, "sent_id": 1, "text": "Years range from 2009 and end at 2016. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1241, "sent_id": 2, "text": "A red line represents E-Cigarettes sales by million. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1242, "sent_id": 0, "text": "The bottom axis is in 9-month increments from Jan 2010 to Oct 2016, and the left axis ranges from 0 to 25000 basis points. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1242, "sent_id": 1, "text": "Greece is the country that is most easily seen due to its exceptionally high amounts of CDSs (especially around Apr 2012), while other countries' CDS rates are relatively low through the whole time span. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1243, "sent_id": 0, "text": "The X and Y axes both range from -3 to 3, and the data points follow an \"X\" shape mostly within these ranges, indicating that there is not necessarily a correlation. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1243, "sent_id": 1, "text": "As the data points approach 0, they become increasingly numerous, becoming indistinguishable from each other around -1.5 to 1.5 range on each axis.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1244, "sent_id": 0, "text": "The left axis shows debt in percent of GDP from 0% to 200%, and the bottom axis tracks time by year from 1999 to 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1244, "sent_id": 1, "text": "The Eurozone average debt is relatively steady from 1999 to 2008 around roughly 70%, until after that when it rises to around 95% in 2013 before leveling off again. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1244, "sent_id": 2, "text": "Portugal, however, rises steadily from 51% (1999) to 72% (2008) and then rises sharply to 131% (2015) before leveling off and decreasing slightly until 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1245, "sent_id": 0, "text": "Graph from Bloomberg showing the changes in creditworthiness for a number of European countries with Greece having the widest range of change. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1246, "sent_id": 0, "text": "Graph comparing E-cigarette sales in millions to number of incidents that resulted in injuries caused by e-cigarettes. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1246, "sent_id": 1, "text": "Sales were stagnant from 2009-2012 but have steadily risen, with a brief drop in 2014. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1247, "sent_id": 0, "text": "Line graph comparing debt of Portugal to Eurozone average from Eurostat. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1247, "sent_id": 1, "text": "Until 2005, Portugal's debt in percentage of GDP was lower than that of the Eurozone but steadily rose since 1999. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1247, "sent_id": 2, "text": "In 2005, it equaled the Eurozone average and stayed around it until 2009, when it rose above it. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1248, "sent_id": 0, "text": "It is a line graph depicting the debt of Portugal compared to eurozone average since 1999. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1248, "sent_id": 1, "text": "The two lines intersect in 2009, meaning they had the same debt in percent of GDP. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1249, "sent_id": 0, "text": "This is two distributive functions intersecting", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1250, "sent_id": 0, "text": "It is a graph of sovereign credit default swaps", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1251, "sent_id": 0, "text": "There are two lines: one line represents \"e-cigarette sales in millions of dollar\". ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1251, "sent_id": 1, "text": "The other line represents the annual number of incidents (fire and explosions). ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1252, "sent_id": 0, "text": "There are 7 lines on the graph, each one representing a different Croatian party.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1253, "sent_id": 0, "text": "There are several bars that represent fundraing expenses and subsidized contributions raised by different Canadian federal parties in 2009.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1254, "sent_id": 0, "text": "Shows a graph with the countries on the left and years on the bottom.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1255, "sent_id": 0, "text": "The graph are in a line with age groups on the bottom.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1256, "sent_id": 0, "text": "Graph shows a uphill with two lines on the outer left displays sales on the bottom shows the years.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1257, "sent_id": 0, "text": "Image shows that both Eumelanin and Pheomelanin decrease in terms of Molecular Extinction Coefficient as Wavelength increases--Pheomelanin decreases at a faster rate than Eumelanin as Wavelength increases. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1258, "sent_id": 0, "text": "US LOHAS Consumer Segmentation includes 5 consumer categories including LOHAS, Naturalites, Drifters, Conventionals, and Unconcerned. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1258, "sent_id": 1, "text": "Conventionals make up the largest percentage of consumers for NMI in 2017, making up 26%, while LOHAS makes up the least at 17%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1259, "sent_id": 0, "text": "Chart is a pie chart showing the percentage of the German Power Price that each component of the electricity sector contributed in 2020. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1259, "sent_id": 1, "text": "Grid Charges led the way at 25.1%, while Renewable Surcharge made up the least at 3.2%. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1260, "sent_id": 0, "text": "A pie chart demonstrating the breakdown of LOHAS consumer segmentation model by percentages ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1261, "sent_id": 0, "text": "Donut chart showing the amount of taxes and fees associated with kWh pricing", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1262, "sent_id": 0, "text": "Example of two cumulative distribution functions F(x) and G(x) which satisfy the single-crossing condition", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1263, "sent_id": 0, "text": "The image shows the number of seat won by 7 different political groups in Croatia over a period of 24 years.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1264, "sent_id": 0, "text": "The image shows the number of seats won by 7 different political groups in Croatia over a period of 24 years.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1265, "sent_id": 0, "text": "The image shows a player's performance. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1265, "sent_id": 1, "text": "Their other first-class inning decreased as the tour progressed. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1265, "sent_id": 2, "text": "They achieved test innings in June and July. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1266, "sent_id": 0, "text": "The image relates percentages of the pricing of German power. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1266, "sent_id": 1, "text": "Power generation, grid charges, and taxes, levies, & surcharge make up 20-25% of the price. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1266, "sent_id": 2, "text": "Value-added tax makes up 16% of the price. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1267, "sent_id": 0, "text": "In relation of \"Debt in Percentage of GDP\" vs yearly growth of Portugal and the Eurozone average the chart shows substantial growth. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1267, "sent_id": 1, "text": "From the years 1999-2004 Portugal was under the Debt in Percentage of GDP compared to the Eurozone average. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1267, "sent_id": 2, "text": "Between the years 2004-2009 Portugal remained in sync with averages ranging from 68-83. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1268, "sent_id": 0, "text": "The chart shows a data set of correlation between X and Y with no discernable axes. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1268, "sent_id": 1, "text": "The data set indicates both are functions of one another and are equal across the board where x=y.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1269, "sent_id": 0, "text": "NIMI's 2007 US LOHAS Consumer Segmentation model is broken down into percentages of the population in NIMI defined consumer segments. 19% are unconcerned, 17% are LOHAS, 19% are Naturalites, 19% are Drifters, and 26% are Conventionals.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1270, "sent_id": 0, "text": "Of the average 31.47 cent/kWh cost of electricity in Germany, 25.1% of it is attributed to grid charges, 22.4% is attributed to power generation or aquisition, sales, 6.5% is an electricity tax, 16% is a value-added tax, 21.5% is a renewable surcharge, and the remaining 8.7% are other levies.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1271, "sent_id": 0, "text": "The graph shows both a direct positive and negative correlation.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1272, "sent_id": 0, "text": "Since 2011, we have seen a rise in both E-cigarette sales and incidents, rising much more exponentially after 2013.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1273, "sent_id": 0, "text": "This graphs compares the age groups of different countries", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1274, "sent_id": 0, "text": "A bar represents the population of saqqaq each year starting in 1991 and ending in 2010", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1275, "sent_id": 0, "text": "Graph represents the percentage of of adults in specified countries that started early breastfeeding ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1276, "sent_id": 0, "text": "The image shows a graph of Portugal debt vs. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1276, "sent_id": 1, "text": "Eurozone average debt from the year 1999-2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1276, "sent_id": 2, "text": "Portugal had a sharp increase in 2008 with it leveling out in 2013. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1277, "sent_id": 0, "text": "This graph shows the relationship between sales of E-cigarettes and number of injuries. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1277, "sent_id": 1, "text": "The higher the number of sales equaled the higher number of injuries.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1278, "sent_id": 0, "text": "This is a pie chart showing the percentages of distribution of LOHAS.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1279, "sent_id": 0, "text": "This is a bar graph representing the population growth dynamics from 1991 to 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1280, "sent_id": 0, "text": "This is a bar graph representing the population growth dynamics from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1280, "sent_id": 1, "text": "The population grows with a peak in 1995, then dips slightly and grows again, and then dips with a low in 2009.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1281, "sent_id": 0, "text": "The image is a bar graph showing how Toshack bats during his 1948 England tour. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1281, "sent_id": 1, "text": "The data has a trend line that increases over time. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1282, "sent_id": 0, "text": "The image has an x-axis that goes from -3 to 3. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1282, "sent_id": 1, "text": "The y-axis goes from -3 to 3. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1283, "sent_id": 0, "text": "This is a line chart displaying sovereign credit default swaps in several European countries between Jan 2010 and October 2016. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1283, "sent_id": 1, "text": "Greece is definitely an outlier.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1284, "sent_id": 0, "text": "Its a bar chart showing the population breakdown for various age interval. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1284, "sent_id": 1, "text": "Most are four years. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1285, "sent_id": 0, "text": "This graph tracks the level of debt as a percentage of GDP for Portugal compared to the Eurozone Average. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1285, "sent_id": 1, "text": "In recent years. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1286, "sent_id": 0, "text": "This is an image of the graph of y= sqrt(3)s", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1287, "sent_id": 0, "text": "Depicted are the data results for the loss of confidence in creditworthiness in EU countries, with Greece at the highest at 25,000 points", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1288, "sent_id": 0, "text": "The bar graph ilustrates how the Saqqaq population in Greenland, has grown. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1288, "sent_id": 1, "text": "Data collection begins in 1991 with the data collected up till 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1289, "sent_id": 0, "text": "The has year in the x-axis, going from 1991 to 2010; the population grow from 1991 to 200 and have been stagnant and somewhat down from there.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1290, "sent_id": 0, "text": "The bar graph chart has year 1991-2010 in the x-axis, showing population growing from 1991 to mid 1990s then down and up for the next 10 years and do in back half of 2010s", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1291, "sent_id": 0, "text": "This chart has the sovereign credit default swaps by country from Jan '10 to Oct '16, most of the countries' data are buried at the bottom of the scale, except for Greece, whose data spikes in '11-'13.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1292, "sent_id": 0, "text": "Bar graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1292, "sent_id": 1, "text": "Vertical axis is early initiation of breastfeeding in percentage, the horizontal axis is by country. \nIndia is at 41.5%, Pakistan at 18%, Sri Lanka at 90.3%, Nepal at 54.9%, and china at 26.4%.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1293, "sent_id": 0, "text": "Line graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1293, "sent_id": 1, "text": "Vertical axis is molecular extinction coefficient and the horizontal axis is wavelength. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1293, "sent_id": 2, "text": "Eumelinin is decreasing left to right in a straight line. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1294, "sent_id": 0, "text": "The image is a time series plot with vertical axis of annual flow volume in millions of acre feet. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1294, "sent_id": 1, "text": "The horizontal axis is time in decades. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1295, "sent_id": 0, "text": "This pie chart shows the average electricity price for a german household", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1296, "sent_id": 0, "text": "This pie chart shows a breakdown of the average electricity price for a german household", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1297, "sent_id": 0, "text": "A graph showing that normally distributed and uncorrelated does not imply independence", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1298, "sent_id": 0, "text": "A graph that compares fundraising expenses vs. contributions.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1299, "sent_id": 0, "text": "Graph captures the upward slop to display data for inverse operation for super root and other super roots. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1300, "sent_id": 0, "text": "gradual slope displays values for x and y, 2 to 8 for y axis. only 2 for x axis.  the data is shown as upward to linear effects from y value 2 to y value 8 being the linear line of consistent data.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1301, "sent_id": 0, "text": "the sovereign credit default swaps display 11 different countries, each representing their own individual color with lines to replicate their data. this traditional line graph as the values from 5.000 all the way up to 25.000 for the areas in the x axis where the y axis shows the date from January 10 through Oct 16.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1302, "sent_id": 0, "text": "the darker the lines means the higher the value. the X is the data and the outside of the lines, the areas furthest away from one another are lighter colored which means less values are there unlike the very center of the x where would would find most value because it is the intervention and darker portion of the x. additionally the x and y intersect at the center of the graph which is also the center of the x within the image. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1303, "sent_id": 0, "text": "Compares the debt of Portugal to the debt Eurozone by plotting the debt in percentage of GDP on the y axis and the year on the x axis. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1303, "sent_id": 1, "text": "The data is shown with one data point for each year, from 1999 through 2019. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1303, "sent_id": 2, "text": "Before 2004, Portugal had less debt as a percentage of GDP than the Eurozone, but the amount of debt of Portugal begins to rise quickly after about 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1304, "sent_id": 0, "text": "The bar graph shows the number of people in Saqqaq from 1991 through 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1304, "sent_id": 1, "text": "The population was rather low from 1991-1994. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1304, "sent_id": 2, "text": "It did not raise above 100 people until 1995. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1305, "sent_id": 0, "text": "This is a bar graph that also contains other points and lines on the graph. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1305, "sent_id": 1, "text": "Each bar shows the batting performance at a game, during the 1948 England tour. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1305, "sent_id": 2, "text": "The batting performance is quite low for all of the pink bars, which show it was a 1st class inning. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1305, "sent_id": 3, "text": "The red bars are much higher; more runs were scored during these Test innings. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1306, "sent_id": 0, "text": "The image shows a bar graph of the Shaqqaq population from 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1306, "sent_id": 1, "text": "The highest population was 214 in 2002. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1307, "sent_id": 0, "text": "This is a pie graph of NMI's 2007 US LOHAS Consumer Segementation.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1308, "sent_id": 0, "text": "This is a bar graph of Saqqaq's population from 1991-2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1308, "sent_id": 1, "text": "The highest was 124 in 2006 and the lowest was 77 in 1992.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1309, "sent_id": 0, "text": "Saqqaq population has grown and fallen and grown again and fallen again since 1991.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1310, "sent_id": 0, "text": "A large x and y graph showing the intersection density value functions. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1310, "sent_id": 1, "text": "The two meet in the middle and get darker there while getting whiter at the edges. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1311, "sent_id": 0, "text": "The chart has pink and red bars. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1311, "sent_id": 1, "text": "The pink bars are the per inning bars while the much larger red bars are the test innings. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1311, "sent_id": 2, "text": "There's a blue line showing the average of the five recent innings. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1312, "sent_id": 0, "text": "A bar graph, measuring Saqqaq's annual population from the year 1991 to 2010. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1312, "sent_id": 1, "text": "Saqqaq's population starts at 209 in the year 1991, before steadily decreasing all the way until 134 in 2010.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1313, "sent_id": 0, "text": "A 3-D, double bar graph, illustrating the top three Canadian federal parties, with each of their fundraising expenses and subsidized contributions. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1313, "sent_id": 1, "text": "The expenses and contributions are measured in millions of dollars. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1314, "sent_id": 0, "text": "Portugal's debt is slightly higher than the eurozone average debt from the years 1999-2005, then is identical to the eurozone average debt from the years 2005-2009, and becomes much higher than the eurozone average debt from 2009 until now.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1315, "sent_id": 0, "text": "A line chart showing number of seats won in Croatian parliamentary elections by various political parties according to year. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1315, "sent_id": 1, "text": "The election years listed are 1992, 1995, 2000, 2003, 2007, 2011, 2015, and 2016. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1315, "sent_id": 2, "text": "Party HDZ's data points are indicated by a dark blue line. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1315, "sent_id": 3, "text": "Chronologically by year, starting in 1992, they are approximately as follows: 85, 75, 46, 66, 66, 45, 51, and 58. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1315, "sent_id": 4, "text": "Party SDP's data points are indicated by a red line. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1315, "sent_id": 5, "text": "Chronologically, the values are approximately as follows: 11, 10, 43, 35, 57, 61, 42, and 38. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1316, "sent_id": 0, "text": "A vertical bar chart showing the Saqqaq population growth from 1991 to 2010, broken down by year. 1991's value is 205, 1992's value is 181, 1993's value is 179, 1994's value is 192, 1995's value is 176, 1996's value is 163, 1997's value is 153, 1998's value is 155, 1999's value is 155, 200's value is 146, 2001's value is 152, 2002's value is 155, 2003's value is 151, 2004's value is 150, 2005's value is 148, 2006's value is 165, 2007's value is 138, 2008's value is 146, 2009's value is 132, and 2010's value is 134.", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1317, "sent_id": 0, "text": "A pie chart showing the components that make up the total German Electricity price.\n\nThe largest wedge, 25.1%, is Grid Charges, valued at 7.9 cents per kilowatt-hour. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1317, "sent_id": 1, "text": "Next largest (22.4%) is Power generation of acquisition, Sales, which is valued at 7.06 cents per kilowatt-hour. ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1317, "sent_id": 2, "text": "The remaining categories are all colored blue on the chart to indicate that they are all subcategories under the category Taxes, Levies, and Surcharges (which make up 53% of the total). ", "labels": [-1, -1, -1, -1]}
+{"corpus_id": 1317, "sent_id": 3, "text": "The largest in this category is Renewable surcharge (21.5%), which is valued at 6.756 cents per kilowatt-hour. ", "labels": [-1, -1, -1, -1]}

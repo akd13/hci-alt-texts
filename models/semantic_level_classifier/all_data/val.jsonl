@@ -1,0 +1,407 @@
+{"corpus_id":233987806,"sent_id":0,"text":"The left image is a heatmap of smartwatch bezel with 24 segments.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":1,"text":"The segments on the left and left top corner of this heatmap are dark red and the segments on the right, right button, and button of the display are dark green.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":2,"text":"The other image shows a spider graph with 24 data points presenting 24 segments.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":3,"text":"This graph is another representation of the heatmap but with exact screen visibility numbers.","labels":[1,0,0,0]}
+{"corpus_id":140216720,"sent_id":0,"text":"Heatmaps of positioning data from a lesson of T2 (L) and T5 (R) for illustrating their reported examples.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"A line chart showing the change in the number of clusters formed as the paramter D (interval between HITs) changes.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":1,"text":"The change in the number of clusters diminishes after D=1min.","labels":[0,0,1,0]}
+{"corpus_id":6138813,"sent_id":0,"text":"\"A table showing the average results of our experiment for each of the tested displays.","labels":[1,0,0,0]}
+{"corpus_id":6138813,"sent_id":1,"text":"On the MS table the average detection time was 50ms without the light sensor and 190ms with the light sensor.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":2,"text":"The position error was 1.5mm and the angle error was -0.78 degree.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":3,"text":"In 2.2% of all trials on the MS table only one marker was detected.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":4,"text":"On the PPI table, the average detection time was 65ms without the light sensor and 176ms with the light sensor.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":5,"text":"The position error was 2.1mm and the angle error was -1.84 degree.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":6,"text":"In 2.5% of all the trials on the PPI table only one marker was detected.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":7,"text":"On the iPad the average detection time was 55 without the light sensor and 167ms with the light sensor.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":8,"text":"The position error was 2.5mm and the angle error was -1.94 degree.","labels":[0,1,0,0]}
+{"corpus_id":6138813,"sent_id":9,"text":"In 3.5% of all the trials on the iPad only one marker was detected.\"","labels":[0,1,0,0]}
+{"corpus_id":17667227,"sent_id":0,"text":"Boxplot view of the block completion times.","labels":[1,0,0,0]}
+{"corpus_id":17667227,"sent_id":1,"text":"The median times for no and full conditions are clearly longer than the median times for out and both conditions.","labels":[0,1,0,0]}
+{"corpus_id":35269641,"sent_id":0,"text":"Column graph shows results of Experiment 1: people's blame judgments for each of the four agents, for both action and inaction.","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":0,"text":"Figure 7 presents four line charts of the results of Experiment 3 (torsion tests).","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":1,"text":"Blue hollow circles represent the experimental results and orange hollow rectangles indicate theoretical predictions.","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":2,"text":"From left to right, it shows the difference between experimental results and theoretical predictions in terms of varied spring wire thickness, spring diameter, number of coil turn, and spring length.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Interaction count (drags) across values.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":2,"text":"Error bars denote 95% confidence intervals.","labels":[0,1,0,0]}
+{"corpus_id":16703644,"sent_id":0,"text":"Mean Ratings of Like, Need, and Easy to Use between over-the-bed table and Prototypes E, F, G","labels":[1,0,0,0]}
+{"corpus_id":233987327,"sent_id":0,"text":"Three images with blocks of barplots that show differences between conditions.","labels":[1,0,0,0]}
+{"corpus_id":233987327,"sent_id":1,"text":"The first image contrasts the PXI measures showing consistently higher average scores for the NPQ condition.","labels":[1,0,1,0]}
+{"corpus_id":233987327,"sent_id":2,"text":"The second image shows scores almost identical bars for Disclosure Failure WC, higher scores for Questionnaire on Disclosure Life WC, and higher scores for NPQ on QuestionsAnswered.","labels":[1,0,1,0]}
+{"corpus_id":233987327,"sent_id":3,"text":"The third image shows that Questionnaire had higher scores on objective intimacy while scores on perceived intimacy were substantially higher for NPQ.","labels":[1,0,1,0]}
+{"corpus_id":199501237,"sent_id":0,"text":"Figure 5 presents four line charts of the results of Experiment 1.","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":1,"text":"Blue hollow circles represent Young\u2019s modulus E, orange hollow rectangles mean shear modulus G, and green hollow triangle indicate tensile strength.","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":2,"text":"From left to right, it shows the distribution of E and G with different infill densities, the distribution of E and G with infill patterns, the distribution of tensile strength with different printing orientations, and the distribution of E and G with different printing orientations.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure consists of four box plots that are located from left to right.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"The first boxplot shows word error rate per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"The second boxplot shows the ratio of including hands in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":3,"text":"The third boxplot shows the ratio of fully including an object in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":4,"text":"The fourth boxplot shows the photography time per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":5,"text":"Word error rate per feedback cluster in train C1: 0.65 (min: 0.27, max: 0.96, std: 0.15) C2: 0.27 (min: 0.07, max: 0.64, std: 0.13) C3: 0.22 (min: 0.04, max: 0.52, std: 0.14)  Ratio of including hands in traing photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":6,"text":"C1: 0.64 (min: 0, max: 1, std: 0.379, median: 0.84) C2: 0.55 (min: 0, max: 1, std: 0.447, median: 0.68) C3: 0.88 (min: 0, max: 1, std: 0.3, median: 1.0)  Ratio of including entire object in train photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":7,"text":"C1: 0.96 (min: 0.93, max: 1.00, std: 0.02) C2: 0.995 (min: 0.960, max: 1.00, std: 0.008) C3: 0.974 (min: 0.933, max: 1.00, std: 0.023)  Photography time per feedback cluster in train C1: 227.94 seconds (min: 106.57 seconds, max: 867.25 seconds, std: 140.32) C2: 220.28 seconds (min: 40.81, max: 1039.57, std: 194.55) C3: 129.90 seconds (min: 76.74, max: 346.58, std: 65.63)","labels":[0,1,0,0]}
+{"corpus_id":233987806,"sent_id":0,"text":"Figure 8 shows the result of the second experiment.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":1,"text":"The median response time for Shift is approximately 4000, for FBG 2600 and for PBG 2200 milliseconds.","labels":[0,1,0,0]}
+{"corpus_id":233987806,"sent_id":2,"text":"The other bar chart shows the response time divided by interaction techniques and mobility conditions.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":3,"text":"Shift-walking and shift standing are very close and they are the worst.","labels":[0,1,1,0]}
+{"corpus_id":233987806,"sent_id":4,"text":"PBG-walking and PBG standing are very close and they have the best performance","labels":[0,1,1,0]}
+{"corpus_id":15755658,"sent_id":0,"text":"A bar graph of the comprehension scores is shown.","labels":[1,0,0,0]}
+{"corpus_id":15755658,"sent_id":1,"text":"It shows a plot of the baseline and tool scores.","labels":[1,0,0,0]}
+{"corpus_id":15755658,"sent_id":2,"text":"The tools improve the performance in both cases, but the difference between the highlighting tool and the baseline is larger than the different between the pausing tool and the baseline.","labels":[0,0,1,0]}
+{"corpus_id":233987327,"sent_id":0,"text":"Three images with blocks of barplots that show differences between conditions.","labels":[1,0,0,0]}
+{"corpus_id":233987327,"sent_id":1,"text":"The first image contrasts the PXI measures showing consistently higher average scores for the NPQ condition.","labels":[1,0,1,0]}
+{"corpus_id":233987327,"sent_id":2,"text":"The second image shows scores almost identical bars for Disclosure Failure WC, higher scores for Questionnaire on Disclosure Life WC, and higher scores for NPQ on QuestionsAnswered.","labels":[1,0,1,0]}
+{"corpus_id":233987327,"sent_id":3,"text":"The third image shows that Questionnaire had higher scores on objective intimacy while scores on perceived intimacy were substantially higher for NPQ.","labels":[1,0,1,0]}
+{"corpus_id":199501237,"sent_id":0,"text":"Figure 6 presents four line charts of the results of Experiment 2 (tensile tests).","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":1,"text":"Blue hollow circles represent the experimental results and orange hollow rectangles indicate theoretical predictions.","labels":[1,0,0,0]}
+{"corpus_id":199501237,"sent_id":2,"text":"From left to right, it shows the difference between experimental results and theoretical predictions in terms of varied spring wire thickness, spring diameter, number of coil turn, and spring length.","labels":[1,0,0,0]}
+{"corpus_id":52942407,"sent_id":0,"text":"This is a scatter plot of the Fitbit data for 6 participants with gender (color of point-box), totoal number of days the firbit worn in the x axis, and average steps per day in the y-axis.","labels":[1,0,0,0]}
+{"corpus_id":52942407,"sent_id":1,"text":"Data is as follows 1.","labels":[0,1,0,0]}
+{"corpus_id":52942407,"sent_id":2,"text":"Female, 4 days, apprx 9000 steps per day 2.","labels":[0,1,0,0]}
+{"corpus_id":52942407,"sent_id":3,"text":"Male, 5 days, a little less than 9000 steps a day 3.","labels":[0,1,0,0]}
+{"corpus_id":52942407,"sent_id":4,"text":"Male, 6 days, 2500 steps a day 4.","labels":[0,1,0,0]}
+{"corpus_id":52942407,"sent_id":5,"text":"Female, 7 days, 7500 steps a day 5.","labels":[0,1,0,0]}
+{"corpus_id":52942407,"sent_id":6,"text":"Male, 14 days, a littl emore than 6000 steps a day 6.","labels":[0,1,0,0]}
+{"corpus_id":52942407,"sent_id":7,"text":"Female, 16 days, a littl emore than 8000 steps a day","labels":[0,1,0,0]}
+{"corpus_id":7007084,"sent_id":0,"text":"A comparison of time spent on control transcription and ATQ-based transcription.","labels":[1,0,0,0]}
+{"corpus_id":7007084,"sent_id":1,"text":"Y-axis represents the types of interface.","labels":[1,0,0,0]}
+{"corpus_id":7007084,"sent_id":2,"text":"From top: control and ATQ.","labels":[1,0,0,0]}
+{"corpus_id":7007084,"sent_id":3,"text":"X-axis represents time in (s)","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure consists of four box plots that are located from left to right.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"The first boxplot shows word error rate per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"The second boxplot shows the ratio of including hands in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":3,"text":"The third boxplot shows the ratio of fully including an object in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":4,"text":"The fourth boxplot shows the photography time per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":5,"text":"Word error rate per feedback cluster in train C1: 0.65 (min: 0.27, max: 0.96, std: 0.15) C2: 0.27 (min: 0.07, max: 0.64, std: 0.13) C3: 0.22 (min: 0.04, max: 0.52, std: 0.14)  Ratio of including hands in traing photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":6,"text":"C1: 0.64 (min: 0, max: 1, std: 0.379, median: 0.84) C2: 0.55 (min: 0, max: 1, std: 0.447, median: 0.68) C3: 0.88 (min: 0, max: 1, std: 0.3, median: 1.0)  Ratio of including entire object in train photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":7,"text":"C1: 0.96 (min: 0.93, max: 1.00, std: 0.02) C2: 0.995 (min: 0.960, max: 1.00, std: 0.008) C3: 0.974 (min: 0.933, max: 1.00, std: 0.023)  Photography time per feedback cluster in train C1: 227.94 seconds (min: 106.57 seconds, max: 867.25 seconds, std: 140.32) C2: 220.28 seconds (min: 40.81, max: 1039.57, std: 194.55) C3: 129.90 seconds (min: 76.74, max: 346.58, std: 65.63)","labels":[0,1,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"Three kernel density plots showing the distributions of per-worker hourly wages based on the interval-based and cluster-based methods.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure consists of four box plots that are located from left to right.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"The first boxplot shows word error rate per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"The second boxplot shows the ratio of including hands in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":3,"text":"The third boxplot shows the ratio of fully including an object in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":4,"text":"The fourth boxplot shows the photography time per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":5,"text":"Word error rate per feedback cluster in train C1: 0.65 (min: 0.27, max: 0.96, std: 0.15) C2: 0.27 (min: 0.07, max: 0.64, std: 0.13) C3: 0.22 (min: 0.04, max: 0.52, std: 0.14)  Ratio of including hands in traing photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":6,"text":"C1: 0.64 (min: 0, max: 1, std: 0.379, median: 0.84) C2: 0.55 (min: 0, max: 1, std: 0.447, median: 0.68) C3: 0.88 (min: 0, max: 1, std: 0.3, median: 1.0)  Ratio of including entire object in train photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":7,"text":"C1: 0.96 (min: 0.93, max: 1.00, std: 0.02) C2: 0.995 (min: 0.960, max: 1.00, std: 0.008) C3: 0.974 (min: 0.933, max: 1.00, std: 0.023)  Photography time per feedback cluster in train C1: 227.94 seconds (min: 106.57 seconds, max: 867.25 seconds, std: 140.32) C2: 220.28 seconds (min: 40.81, max: 1039.57, std: 194.55) C3: 129.90 seconds (min: 76.74, max: 346.58, std: 65.63)","labels":[0,1,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"Points above the dashed line represent requesters who are paying above the minimum wage.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"A histogram of the number of HIT performed by workers.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":1,"text":"More than 90% of workers completed less than 3000 HITs making the distribution long tail.","labels":[0,0,1,0]}
+{"corpus_id":1660920,"sent_id":0,"text":"Summary:  It depicts all metriccs for the real-world exposure task for both Virtual Leap and Virtual Walk.","labels":[1,0,0,0]}
+{"corpus_id":1660920,"sent_id":1,"text":"Results are very similar between approaches, for all metrics.","labels":[0,0,1,0]}
+{"corpus_id":1660920,"sent_id":2,"text":"Data:     Route Errors  Missing POIs    Virtual Leap Virtual Walk Virtual Leap Virtual Walk  min 0 0 0 0  q1 0 0 0.75 1.5  q2 0 0 4 3  q3 0.75 1 5 3.5  max 3 2 5 7     Route Accuracy  POI Accuracy  Referred POIs Accuracy    Virtual Leap Virtual Walk Virtual Leap Virtual Walk Virtual Leap Virtual Walk  min 0.65 0.55 0.3125 0.09375 0.833333333 0.5625  q1 0.7875 0.75 0.3125 0.34375 0.833333333 0.7  q2 0.9 0.8 0.4375 0.59375 0.854166667 0.833333333  q3 0.9375 0.975 0.796875 0.703125 0.89375 0.915178571  max 1 1 0.9375 0.9375 0.9375 0.95     Time (Real)  Time (Virtual)    Virtual Leap Virtual Walk Virtual Leap Virtual Walk  min 130 131 270 158  q1 163 153.5 315.75 406  q2 197.5 260 416 477  q3 268.75 352 485.5 482  max 334 397 499 507","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":0,"text":"A horizontal bar graph which lists tasks on the Y-axis and percent success from 0.0%-100.0% on the X-axis.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":1,"text":"The list of tasks, with percentages, are as follows: 1) Identify objects on the pre-made slide; 91.7%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":2,"text":"2) Identify rectangle color; 25.0%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":3,"text":"3) Identify rectangle width; 58.3%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":4,"text":"4) Determine rectangle's and oval's positions on the slide; 50.0%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":5,"text":"5) Determine rectangle's and oval's positions in relation to each other; 36.4%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":6,"text":"6) Determine the size of the rectangle relative to the oval; 54.5%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":7,"text":"7) Determine the arrow's position on the slide; 45.5%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":8,"text":"8) Determine the direction the arrow is pointing; 0.0%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":9,"text":"9) Determine the text box's position on the slide; 45.5%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":10,"text":"10) Identify the text in the text box; 90.9%.","labels":[1,1,0,0]}
+{"corpus_id":233987344,"sent_id":11,"text":"11) Determine the text box's position relative to the other objects; 36.4%","labels":[1,1,0,0]}
+{"corpus_id":202696423,"sent_id":0,"text":"This figure is a scatterplot showing the relationship between HIV Estimated Prevalence Rate Per 100,000 Population (CDC, 2011) on the x-axis and Percentage of Ads Containing Sexual Health-Related Language on the y-axis in 95 locations.","labels":[1,0,0,0]}
+{"corpus_id":202696423,"sent_id":1,"text":"The relationship is estimated linearly by the equation SHR language = 46.360 + 0.009 * prevalence rate, p = 0.009.","labels":[0,1,0,0]}
+{"corpus_id":202696423,"sent_id":2,"text":"Each location is represented by a circle, with the size of the circle representing its population relative to the other locations.","labels":[1,0,0,0]}
+{"corpus_id":202696423,"sent_id":3,"text":"Outliers with a low HIV prevalence rate and a high % of SHR language in ads include SF Bay Area and Boise, ID.","labels":[1,0,0,0]}
+{"corpus_id":202696423,"sent_id":4,"text":"Outliers with a high HIV prevalence rate and a low % of SHR language in ads include Wichita, KS and Jackson, MS.","labels":[1,0,0,0]}
+{"corpus_id":202696423,"sent_id":5,"text":"New York City is close to the linear trend, with a high HIV prevalence rate and a high % of SHR language in ads.","labels":[0,0,1,0]}
+{"corpus_id":202696423,"sent_id":6,"text":"In general, locations with a higher population tend to have a greater percentage of ads containing SHR language.","labels":[0,0,1,0]}
+{"corpus_id":14178982,"sent_id":0,"text":"Recognition rates for static graphical elements when indicating the perceived shape on a printed reference sheet.","labels":[1,0,0,0]}
+{"corpus_id":1660920,"sent_id":0,"text":"Summary:  Depicts all the metrics in the route reconstruction task for both VirtualLeap and VirtualWalk.","labels":[1,0,0,0]}
+{"corpus_id":1660920,"sent_id":1,"text":"Most results are similar between the two modalities, except the completion time, that is longer for Virtual Leap.","labels":[0,0,1,0]}
+{"corpus_id":1660920,"sent_id":2,"text":"Virtual Leap also shows more NumberElementErrors and FormElementErrors, but it is not statistically significant.","labels":[0,1,0,0]}
+{"corpus_id":1660920,"sent_id":3,"text":"Data:     Completion Time    Virtual Leap Virtual Walk  min 238 178  q1 381 273  q2 445 370  q3 780 478  max 906 820     NumberElementsError  FormElementsError  PlacementErrors  POIsInBlockError  POISsOrderingError    Virtual Leap Virtual Walk Virtual Leap Virtual Walk Virtual Leap Virtual Walk Virtual Leap Virtual Walk Virtual Leap Virtual Walk  min 0 0 0 0 0 1 0 0 0 0  q1 0 0 0 0 3 2 0 0 0 0  q2 0 0 0 0 3 3 2 1 1 1  q3 1 0 2 0 4 4 2 1 2 2  max 2 2 5 2 4 5 4 2 4 4     POIsDistanceError  POIsOnSideError    Virtual Leap Virtual Walk Virtual Leap Virtual Walk  min 0.030555556 0.016666667 0 0  q1 0.088888889 0.064583333 0 0  q2 0.116666667 0.111111111 0.2 0.2  q3 0.169444444 0.216666667 0.2 0.4  max 0.326666667 0.275833333 0.67 0.75","labels":[0,1,0,0]}
+{"corpus_id":18835204,"sent_id":0,"text":"bar chart showing average completion times for finding active devices:  card = 13.5 seconds  cash = 8 seconds  receipt 8.9 seconds","labels":[1,1,0,0]}
+{"corpus_id":226068842,"sent_id":0,"text":"A histogram of unique popular GIFs we saw in our Twitter sample.","labels":[1,0,0,0]}
+{"corpus_id":226068842,"sent_id":1,"text":"The most popular GIF on the left exceeds 1000 uses, and the graph quickly tapers off after around 200 GIFs.","labels":[0,1,1,0]}
+{"corpus_id":226068842,"sent_id":2,"text":"After that, most are below 50 uses.","labels":[0,1,1,0]}
+{"corpus_id":226068842,"sent_id":3,"text":"The graph is displayed in a logarithmic scale, yet still tapers off quickly.","labels":[1,0,1,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Task durations across values.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":2,"text":"Error bars denote 95% confidence intervals.","labels":[0,1,0,0]}
+{"corpus_id":9349793,"sent_id":0,"text":"3D distribution of endpoints for each character.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":1,"text":"The top view and the left view show that the endpoints roughly follow a QWERTY layout.","labels":[0,0,1,0]}
+{"corpus_id":140220677,"sent_id":0,"text":"Three-part figure describing experimental setup and task.","labels":[1,0,0,0]}
+{"corpus_id":140220677,"sent_id":1,"text":"The top part shows an illustration of the experimental setup: on the left side, a participant sits at a desk with a keyboard in front of them.","labels":[1,0,0,0]}
+{"corpus_id":140220677,"sent_id":2,"text":"Their head rests on a chin rest and the participant is looking through a transparent mirror, above which the eye tracker is mounted.","labels":[1,0,0,0]}
+{"corpus_id":140220677,"sent_id":3,"text":"On the right side is a projection screen that the participant looks at, showing a gray background with a black circle.","labels":[1,0,0,0]}
+{"corpus_id":140220677,"sent_id":4,"text":"The middle part of the figure displays a 3 by 3 grid of potential starting locations (white crosses on black circles), with the grid centered on the middle of a noisy gray background image.","labels":[1,0,0,0]}
+{"corpus_id":140220677,"sent_id":5,"text":"Around the bottom-left starting location, dotted semicircles are drawn that indicate potential target positions during the experiment at 5 and 10 degrees distance from the starting location.","labels":[1,1,0,0]}
+{"corpus_id":140220677,"sent_id":6,"text":"The bottom part of the figure illustrates a time line: in each trial, a fixation cross was shown for 500-1250 ms, then the target was visible for 2000 ms, followed by a variable inter-stimulus interval of 1250-2000 ms.","labels":[1,0,0,0]}
+{"corpus_id":35269641,"sent_id":0,"text":"Column graph shows results of Experiment 3: people's blame judgments for each of the four agents, for both action and inaction.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":0,"text":"The image shows a smartwatch display with a line graph and the user interacting with the smartwatch bezel.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":1,"text":"There is a line starting from the touch point on the smartwatch bezel to the other side of the bezel.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":2,"text":"The intersection of this line and the data point on the graph shows the value of the data point.","labels":[1,0,0,0]}
+{"corpus_id":115140495,"sent_id":0,"text":"Gender Distribution    There was 1 woman with all 5 Abby facets, there were 5 women with 4 Abby facets, 2 women with 3 Abby facets, 1 woman with 2 Abby facets, 1 woman with 1 Abby facet, and 1 woman with 0 Abby facets.","labels":[1,1,0,0]}
+{"corpus_id":115140495,"sent_id":1,"text":"1 man with 5 Tim facets, 3 men with 4 Tim facets, 3 men with 3 Tim facets, and 2 men with 2 Tim facets.","labels":[0,1,0,0]}
+{"corpus_id":140290976,"sent_id":0,"text":"In this graph, all frequency bandwidth decrease in activity across the time sample.","labels":[0,0,1,0]}
+{"corpus_id":140290976,"sent_id":1,"text":"Frequencies in order of highest to lowest activity is delta, alpha, beta, theta, ad gamma.","labels":[0,1,0,0]}
+{"corpus_id":140235080,"sent_id":0,"text":"Titel: Infographics \"Intra-active\" Dynamics - Beschreibung: The term \"activity\" is positioned in the middle of a triangular graph.","labels":[1,0,0,0]}
+{"corpus_id":140235080,"sent_id":1,"text":"The corners of the triangle are made out of the acronyms \"PPP\", \"OP\" and \"P\".","labels":[1,0,0,0]}
+{"corpus_id":140235080,"sent_id":2,"text":"The term \"activitiy\" and the acronyms are connected with double-ended arrows.","labels":[1,0,0,0]}
+{"corpus_id":5501677,"sent_id":0,"text":"This figure is a line graph with frame index number on the horizontal axis and foot position in pixels on the vertical axis.","labels":[1,0,0,0]}
+{"corpus_id":5501677,"sent_id":1,"text":"It is split into two panels, the top half shows the absolute distance of left and right feet, with an expected step function like curve.","labels":[1,0,0,0]}
+{"corpus_id":5501677,"sent_id":2,"text":"The lower panel has the first order difference of the absolute difference, and shows the expected left and right foot oscillations.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"Three kernel density estimation plots showing the distributions of per-HIT and per-cluster hourly wages.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":1,"text":"The blue and green lines indicate median and mean.","labels":[1,0,0,0]}
+{"corpus_id":207225134,"sent_id":0,"text":"Description: image of a chart that has automatic adapation and no notification selected","labels":[1,0,0,0]}
+{"corpus_id":233987902,"sent_id":0,"text":"Three spectrum plots of a 2Hz-2kHz swept-frequency signal, recorded signal from an accelerometer affixed to the speaker diaphragm, and from Vibrosight++.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"Line charts showing the transition in the number of completed or returned HITs (above) and active monthly users (bottom).","labels":[1,0,0,0]}
+{"corpus_id":26384834,"sent_id":0,"text":"For each measure, we present 3 stacked graphs with the number of people who rated each scheme.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":0,"text":"3D distribution of endpoints for each character.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":1,"text":"The top view and the left view show that the endpoints roughly follow a QWERTY layout.","labels":[0,0,1,0]}
+{"corpus_id":233987469,"sent_id":0,"text":"A plot of the stiffness of traps that approach each other horizontally versus vertically.","labels":[1,0,0,0]}
+{"corpus_id":233987469,"sent_id":1,"text":"The plots (top) show that the stiffness varies considerably in the vertical case, whereas horizontally merged traps have relatively stable stiffness along the way.","labels":[0,0,1,0]}
+{"corpus_id":233987469,"sent_id":2,"text":"The bottom part shows the pressure fields during the motion until they are merged (rightmost).","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":0,"text":"Illustration of the relative coordinate system and the leap motion coordinate system.","labels":[1,0,0,0]}
+{"corpus_id":140341035,"sent_id":0,"text":"Fifteen charts arranged in a 3 by 5 matrix showing growth curves for each of the 15 referents considered in this paper.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":0,"text":"3D distribution of endpoints for each character.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":1,"text":"The top view and the left view show that the endpoints roughly follow a QWERTY layout.","labels":[0,0,1,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Relationship between values in original input space (top) and corrected input space (bottom).","labels":[1,0,0,0]}
+{"corpus_id":7007084,"sent_id":0,"text":"Y-axis is types of tasks.","labels":[1,0,0,0]}
+{"corpus_id":7007084,"sent_id":1,"text":"From top: survey control, survey mini, transcription control, transcription mini, and text detection.","labels":[1,0,0,0]}
+{"corpus_id":7007084,"sent_id":2,"text":"X-axis is time in seconds.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":0,"text":"3D distribution of endpoints for each character.","labels":[1,0,0,0]}
+{"corpus_id":9349793,"sent_id":1,"text":"The top view and the left view show that the endpoints roughly follow a QWERTY layout.","labels":[0,0,1,0]}
+{"corpus_id":233987806,"sent_id":0,"text":"Figure 9 left shows a spider graph with three interaction techniques.","labels":[1,0,0,0]}
+{"corpus_id":233987806,"sent_id":1,"text":"This spider graph shows the average response time for each one of 24 segments on the screen.","labels":[0,0,0,0]}
+{"corpus_id":233987806,"sent_id":2,"text":"For almost all of the segments PBG is faster than FBG and Shift.","labels":[0,1,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"Relatively high and less varying payment indicates that requesters who post high reward HITs treat workers fairly.","labels":[0,0,1,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure consists of four box plots that are located from left to right.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"The first boxplot shows word error rate per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"The second boxplot shows the ratio of including hands in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":3,"text":"The third boxplot shows the ratio of fully including an object in train photos per feedback cluster.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":4,"text":"The fourth boxplot shows the photography time per feedback cluster in the train session.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":5,"text":"Word error rate per feedback cluster in train C1: 0.65 (min: 0.27, max: 0.96, std: 0.15) C2: 0.27 (min: 0.07, max: 0.64, std: 0.13) C3: 0.22 (min: 0.04, max: 0.52, std: 0.14)  Ratio of including hands in traing photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":6,"text":"C1: 0.64 (min: 0, max: 1, std: 0.379, median: 0.84) C2: 0.55 (min: 0, max: 1, std: 0.447, median: 0.68) C3: 0.88 (min: 0, max: 1, std: 0.3, median: 1.0)  Ratio of including entire object in train photos per feedback cluster.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":7,"text":"C1: 0.96 (min: 0.93, max: 1.00, std: 0.02) C2: 0.995 (min: 0.960, max: 1.00, std: 0.008) C3: 0.974 (min: 0.933, max: 1.00, std: 0.023)  Photography time per feedback cluster in train C1: 227.94 seconds (min: 106.57 seconds, max: 867.25 seconds, std: 140.32) C2: 220.28 seconds (min: 40.81, max: 1039.57, std: 194.55) C3: 129.90 seconds (min: 76.74, max: 346.58, std: 65.63)","labels":[0,1,0,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Interaction count (drags) across values.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":2,"text":"Error bars denote 95% confidence intervals.","labels":[1,1,0,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure has two bar charts at the top and bottom.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"The bar chart at the top describes the proportion of participants who use a certain technology never, once a month, several times a month, once a week, several times a week, once a day, and several times a day as follows.","labels":[1,1,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"Experience of using a mobile device Never: 0.0% Once a month: 0.0% Several times a month: 0.0% Once a week: 0.0% Several times a week: 0.0% Once a day: 11.11% Several times a day: 88.89%  Experience of taking pictures using a mobile phone Never: 44.44% Once a month: 22.22% Several times a month: 0.0% Once a week: 0.0% Several times a week: 22.22% Once a day: 0.0% Several times a day: 11.11%  Experience of sharing your own photos or videos with others Never: 66.67% Once a month: 0.0% Several times a month: 22.22% Once a week: 0.0% Several times a week: 11.11% Once a day: 0.0% Several times a day: 0.0%  Experience of using apps (for any purpose) on a mobile phone Never: 0.0% Once a month: 0.0% Several times a month: 0.0% Once a week: 0.0% Several times a week: 0.0% Once a day: 22.22% Several times a day: 77.78%  Experience of using apps for object recognition (for example, Aipoly, TapTapSee) on a mobile phone Never: 44.44% Once a month: 0.0% Several times a month: 0.0% Once a week: 11.11% Several times a week: 11.11% Once a day: 0.0% Several times a day: 33.33%  Experience of using Braille labels to distinguish objects Never: 22.22% Once a month: 0.0% Several times a month: 11.11% Once a week: 0.0% Several times a week: 22.22% Once a day: 0.0% Several times a day: 44.44%  The bar chart at the bottom describes the proportion of participants who strongly disagree, disagree, neither agree nor disagree (neutral), agree, strongly agree with a statement about technology as follows.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":3,"text":"Statement: I enjoy taking a photo on a mobile phone.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":4,"text":"Strongly disagree: 0.0% Disagree: 44.44% Neutral: 11.11% Agree: 22.22% Strongly agree: 22.22%  Statement: I think it is important to keep up with the latest trends in te","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure has two line graphs.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"A line graph on the left describes the average proportion of photos that included the full, part of, and no object.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"Train Full: average=0.68, variance=0.05 Partial: average=0.29, variance=0.05 No: average=0.02, variance=0.001 Vanilla test Full: average=0.77, variance=0.03 Partial: average=0.20, variance=0.02 No: average=0.02, variance=0.002 Wild test Full: average=0.62, variance=0.10 Partial: average=0.30, variance=0.05 No: average=0.08, variance=0.01  The other line graph on the right describes the average proportion of photos that included the full, part of, and no hand.","labels":[0,1,0,0]}
+{"corpus_id":203628527,"sent_id":3,"text":"Train Full: average=0.53, variance=0.14 Partial: average=0.13, variance=0.01 No: average=0.34, variance=0.14 Vanilla test Full: average=0.58, variance=0.18 Partial: average=0.11, variance=0.01 No: average=0.31, variance=0.19 Wild test Full: average=0.66, variance=0.12 Partial: average=0.19, variance=0.01 No: average=0.16, variance=0.08","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":0,"text":"Box chart of durations for tasks 1-11.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":1,"text":"Time in minutes on the Y-axis, and task numbers on the X-axis.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":2,"text":"There is a higher variance in duration for task 4 than for the rest of the tasks, and it ranges from 0.25 to just over 4 minutes, with the majority between 1 and 2.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":3,"text":"Tasks 8 and 10 have noticeably short durations, close to zero, with little variance.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":4,"text":"1, 2, and 11 range between 0 and 0.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":5,"text":"3, 5, and 7 range between 0.25 and 1.25 minutes, and 6 and 9 reach nearly 1.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":6,"text":"Box chart of durations for tasks 2-23.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":7,"text":"Half of the tasks (12, 13, 14, 15, 16, and 17) have an extremely high variance.","labels":[0,0,1,0]}
+{"corpus_id":233987344,"sent_id":8,"text":"The boxes for 12, 16, and 17 range from around 1.25 minutes to 5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":9,"text":"13 has whiskers from 1 to 5, and the box is between 2 and 4.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":10,"text":"14 has whiskers from 0 to 5 (the entire Y axis) and a box between 1.25 and 4.5.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":11,"text":"15 is lower, the box ranging between 0.5 and 3 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":12,"text":"Tasks 19, and 21 have noticeably short durations, between nearly zero and 0.25 minutes, with little variance. 18, 20, 22, and 23 have boxes which span 1.5 minutes; 18 ranges from almost 0 up to 1.25, 22 ranges from 1.5 to 3 with a whisker extending below 0.5.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":13,"text":"22 and 23 are nearly identical, ranging from about 0.75 to 2.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":0,"text":"Box chart of durations for tasks 1-11.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":1,"text":"Time in minutes on the Y-axis, and task numbers on the X-axis.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":2,"text":"There is a higher variance in duration for task 4 than for the rest of the tasks, and it ranges from 0.25 to just over 4 minutes, with the majority between 1 and 2.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":3,"text":"Tasks 8 and 10 have noticeably short durations, close to zero, with little variance.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":4,"text":"1, 2, and 11 range between 0 and 0.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":5,"text":"3, 5, and 7 range between 0.25 and 1.25 minutes, and 6 and 9 reach nearly 1.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":6,"text":"Box chart of durations for tasks 2-23.","labels":[1,0,0,0]}
+{"corpus_id":233987344,"sent_id":7,"text":"Half of the tasks (12, 13, 14, 15, 16, and 17) have an extremely high variance.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":8,"text":"The boxes for 12, 16, and 17 range from around 1.25 minutes to 5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":9,"text":"13 has whiskers from 1 to 5, and the box is between 2 and 4.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":10,"text":"14 has whiskers from 0 to 5 (the entire Y axis) and a box between 1.25 and 4.5.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":11,"text":"15 is lower, the box ranging between 0.5 and 3 minutes.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":12,"text":"Tasks 19, and 21 have noticeably short durations, between nearly zero and 0.25 minutes, with little variance. 18, 20, 22, and 23 have boxes which span 1.5 minutes; 18 ranges from almost 0 up to 1.25, 22 ranges from 1.5 to 3 with a whisker extending below 0.5.","labels":[0,1,0,0]}
+{"corpus_id":233987344,"sent_id":13,"text":"22 and 23 are nearly identical, ranging from about 0.75 to 2.5 minutes.","labels":[0,1,0,0]}
+{"corpus_id":12279384,"sent_id":0,"text":"This figure shows results for player experience of persons using wheelchairs and able-bodied persons playing our game.","labels":[1,0,0,0]}
+{"corpus_id":12279384,"sent_id":1,"text":"Mean results are given for the dimensons competence, autonomy, relatedness, control and enjoyment on a five point Likert scale.","labels":[1,0,0,0]}
+{"corpus_id":12279384,"sent_id":2,"text":"While most values are above average, the biggest difference in scores can be found for relatedness.","labels":[0,1,0,0]}
+{"corpus_id":233987327,"sent_id":0,"text":"Three images with blocks of barplots that show differences between conditions.","labels":[1,0,0,0]}
+{"corpus_id":233987327,"sent_id":1,"text":"The first image contrasts the PXI measures showing consistently higher average scores for the NPQ condition.","labels":[1,1,0,0]}
+{"corpus_id":233987327,"sent_id":2,"text":"The second image shows scores almost identical bars for Disclosure Failure WC, higher scores for Questionnaire on Disclosure Life WC, and higher scores for NPQ on QuestionsAnswered.","labels":[1,1,0,0]}
+{"corpus_id":233987327,"sent_id":3,"text":"The third image shows that Questionnaire had higher scores on objective intimacy while scores on perceived intimacy were substantially higher for NPQ.","labels":[1,1,0,0]}
+{"corpus_id":233987272,"sent_id":0,"text":"The first subfigure shows bar charts of Latitude levels wrist, forearm, and elbow combined with awareness schemes known and unknown.","labels":[1,0,0,0]}
+{"corpus_id":233987272,"sent_id":1,"text":"The height of the bar chart represents the throughput result of each combination:       wrist x known: 3.047, wrist x unknown: 2.697, forearm x known: 3.020, forearm x unknown: 2.584, elbow x known: 2.822, elbow x unknown: 2.265.","labels":[1,1,0,0]}
+{"corpus_id":233987272,"sent_id":2,"text":"Gray lines indicate significant pairs between wrist x known vs. elbow x known, wrist x unknown vs. forearm x unknown, wrist x unknown vs. elbow x unknown, forearm x known vs. elbow x known, and forearm x unknown vs. elbow x unknown.","labels":[1,0,0,0]}
+{"corpus_id":233987272,"sent_id":3,"text":"The second subfigure shows bar charts of Height levels close, medium, and far combined with awareness schemes known and unknown.","labels":[1,0,0,0]}
+{"corpus_id":233987272,"sent_id":4,"text":"The height of the bar chart represents the throughput result of each combination:       close x known: 3.059, close x unknown: 2.660, medium x known: 3.014, medium x unknown: 2.565, far x known: 2.815, far x unknown: 2.321.","labels":[1,1,0,0]}
+{"corpus_id":233987272,"sent_id":5,"text":"Gray lines indicate significant pairs between close x known vs. far x known, close x unknown vs. medium x unknown, close x unknown vs. far x unknown, medium x known vs. far x known, and medium x unknown vs. far x unknown.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"(1) High paying \"video evalution\" HITs push the hourly wage distribution up. (2) The CC distribution is skewed toward left by low hourly wages of \"transcribe data\" and \"transcribe image\" tasks.","labels":[0,0,0,1]}
+{"corpus_id":9681517,"sent_id":0,"text":"Task times for the four feedback conditions  (+\/- standard deviation of the mean).","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Aggregation of drag movement across positive (top) and negative (bottom) values.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":2,"text":"The shaded areas show the pro- portion of interactions in different parts of the motor space.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":0,"text":"This figure shows two bar charts on the left and the right, respectively.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":1,"text":"The left bar chart shows the average accuracy of each participant's model in the vanilla test and the right bar chart shows the average of each participant's model in the wild test.","labels":[1,0,0,0]}
+{"corpus_id":203628527,"sent_id":2,"text":"The average accuracy of the models in the vanilla test P1: 49.86% (min: 44.60%, max: 54.00%, std: 3.16) P2: 62.88% (min: 57.20%, max: 68.00%, std: 3.47) P3: 70.46% (min: 66.20%, max: 76.40%, std: 3.06) P4: 61.78% (min: 57.20%, max: 66.60%, std: 3.57) P5: 53.38% (min: 47.80%, max: 57.60%, std: 2.84) P6: 74.56% (min: 72.60%, max: 77.00%, std: 1.46) P7: 84.14% (min: 80.20%, max: 89.40%, std: 3.32) P8: 55.12% (min: 52.60%, max: 59.80%, std: 2.39) P9: 55.28% (min: 50.00%, max: 59.80%, std: 3.17) S1: 82.30% (min: 79.20%, max: 86.20%, std: 2.38) S2: 94.58% (min: 92.60%, max: 96.00%, std: 1.16)  The average accuracy of the models in the wild test P1: 28.56% (min: 24.40%, max: 33.80%, std: 3.00) P2: 34.44% (min: 29.20%, max: 38.60%, std: 3.08) P3: N\/A P4: 54.32% (min: 48.00%, max: 58.00%, std: 3.37) P5: 40.72% (min: 36.40%, max: 45.60%, std: 3.51) P6: 55.82% (min: 52.20%, max: 61.00%, std: 2.22) P7: 58.08% (min: 52.00%, max: 66.00%, std: 4.14) P8: 23.00% (min: 20.00%, max: 26.80%, std: 2.35) P9: 43.28% (min: 39.80%, max: 48.80%, std: 2.97) S1: 76.68% (min: 69.80%, max: 84.00%, std: 4.74) S2: 86.18% (min: 83.20%, max: 89.00%, std: 1.83)","labels":[0,1,0,0]}
+{"corpus_id":5040507,"sent_id":0,"text":"A scatter plot showing a relationship between HIT reward and hourly wage.","labels":[1,0,0,0]}
+{"corpus_id":5040507,"sent_id":1,"text":"A black dashed line represents the model that is fit to the data using an ordinary least square regression.","labels":[1,0,0,0]}
+{"corpus_id":5040144,"sent_id":0,"text":"Two density plots for the two measures, adjusted number of pumps and percent change.","labels":[1,0,0,0]}
+{"corpus_id":233987272,"sent_id":0,"text":"The bar chart shows the throughput result of each combination of longitude levels (0-7) and latitude levels (0-2).","labels":[1,0,0,0]}
+{"corpus_id":233987272,"sent_id":1,"text":"The values are (ordered in wrist, forearm, and elbow):       (N) 2.873, 2.827, 2.644;       (NW) 2.677, 2.673, 2.503;       (W) 2.765, 2.649, 2.386;       (SW) 2.880, 2.766, 2.373;      (S) 2.921, 2.790, 2.422;      (SE) 2.965, 2.809, 2.561;      (E) 2.951, 2.936, 2.704;      (NE) 2.943, 2.964, 2.752.","labels":[0,1,0,0]}
+{"corpus_id":233987272,"sent_id":2,"text":"Gray lines indicate significant pairs between W x Wrist vs. W x Elbow, W x Forearm vs. W x Elbow, SW x Wrist vs. SW x Elbow, SW x Forearm vs. SW x Elbow, S x Wrist vs. S x Elbow, S x Forearm vs. S x Elbow, and SE x Wrist vs. SE x Elbow.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Task durations across values.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":2,"text":"Error bars denote 95% confidence intervals.","labels":[0,1,0,0]}
+{"corpus_id":233987272,"sent_id":0,"text":"The four subfigures present the main effects of the four independent variables.","labels":[1,0,0,0]}
+{"corpus_id":233987272,"sent_id":1,"text":"The TP results are:      Subfigure a (Awareness Scheme): Known (2.963), Unknown (2.515), with significant difference;      Subfigure b (Longitude): N (2.782), NW (2.618), W (2.600), SW (2.673), S (2.711), SE (2.778), E (2.864), and NE (2.886), with significant differences between: N vs. NW, NW vs. E, NW vs. NE, W vs. E, W vs. NE, SW vs. E, SW vs. NE, and S vs. E;      Subfigure c (Latitude): Wrist (2.872), Forearm (2.802), and Elbow (2.543), with significant differences between all pairwise comparisons;      Subfigure d (Height): Close (2.859), Medium (2.790), and Far (2.568), with significant differences between all pairwise comparisons.","labels":[0,1,0,0]}
+{"corpus_id":15927048,"sent_id":0,"text":"","labels":[0,0,0,0]}
+{"corpus_id":15927048,"sent_id":1,"text":"Scatter plot and regressions of our model.","labels":[1,0,0,0]}
+{"corpus_id":15927048,"sent_id":2,"text":"Grey indi- cates the display; green areas show 95% prediction intervals.","labels":[1,1,0,0]}
+{"corpus_id":12667124,"sent_id":0,"text":"The participants needed to hear fewer corrections on average for each trial of the poses.","labels":[0,0,1,0]}
+{"corpus_id":12667124,"sent_id":1,"text":"Warrior Two Pose was only attempted once by all of the participants.","labels":[0,0,1,0]}
+{"corpus_id":5501677,"sent_id":0,"text":"This figure is a line graph with frame index number on the horizontal axis and number of edge lines on the vertical axis.","labels":[1,0,0,0]}
+{"corpus_id":5501677,"sent_id":1,"text":"It shows both the original and filtered result.","labels":[1,0,0,0]}
+{"corpus_id":5501677,"sent_id":2,"text":"In the filtered result, the peaks are prominent and easier to identify.","labels":[0,0,1,0]}
+{"corpus_id":218483630,"sent_id":0,"text":"The left part shows the histogram of the averaged interruption times of four techniques in four colors.","labels":[1,0,0,0]}
+{"corpus_id":218483630,"sent_id":1,"text":"The right part shows the histogram of subjective scores for four dimensions.","labels":[1,0,0,0]}
+{"corpus_id":218483630,"sent_id":2,"text":"Four colors represent the scores of four different interruption techniques.","labels":[1,0,0,0]}
+{"corpus_id":211531389,"sent_id":0,"text":"3 timelines stacked on top of each other.","labels":[1,0,0,0]}
+{"corpus_id":211531389,"sent_id":1,"text":"The first shows segments based on transcript sentences, the second shows navigational and editing command events, and the third shows all candidate boundary points created by combining the above two timelines together.","labels":[1,0,0,0]}
+{"corpus_id":218483630,"sent_id":0,"text":"The average value with the standard deviation of the presence and intensity of seventeen action units are shown in histograms.","labels":[1,0,0,0]}
+{"corpus_id":218483630,"sent_id":1,"text":"The values for correct responses, wrong responses, consistently detected responses are labeled with the color of black, orange and yellow respectively.","labels":[1,0,0,0]}
+{"corpus_id":218483630,"sent_id":0,"text":"This figure shows the histogram of subjective scores for four dimensions.","labels":[1,0,0,0]}
+{"corpus_id":218483630,"sent_id":1,"text":"The scores from 1 to 7 are marked by 7 different colors.","labels":[1,0,0,0]}
+{"corpus_id":218483536,"sent_id":0,"text":"In the screenshot of light graphs is a plateau in the value of the sensor in the hall from 8pm to 10pm clearly visible.","labels":[1,0,0,0]}
+{"corpus_id":153313841,"sent_id":0,"text":"Plot of Effect of Surfaced Hits on ML-20M.","labels":[1,0,0,0]}
+{"corpus_id":153313841,"sent_id":1,"text":"Shows boycotts and data strikes.","labels":[0,0,1,0]}
+{"corpus_id":153313841,"sent_id":2,"text":"As size of boycotts\/data strikes increases, Surfaced Hits are reduced.","labels":[0,1,1,0]}
+{"corpus_id":153313841,"sent_id":0,"text":"Scatterplot shows that the uniqueness of a group, measured by implicit rating cosine distance from centroid, correlates with the Similar User Effect Ratio.","labels":[1,0,1,0]}
+{"corpus_id":153313841,"sent_id":0,"text":"Plot of Effect of Surfaced Hits on ML-1M.","labels":[1,0,0,0]}
+{"corpus_id":153313841,"sent_id":1,"text":"Shows boycotts and data strikes.","labels":[0,0,1,0]}
+{"corpus_id":218482477,"sent_id":0,"text":"This Figure contains a 2D stacked column chart showing the results of the post-study survey (which was conducted after the field study).","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":1,"text":"In the x-axis, there are 4 questions\/sentences which were given to the participants using a 1-5 Likert scale.","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":2,"text":"The y-axis is the average of the rating per each question\/sentence.","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":3,"text":"Furthermore, each bar per question\/sentence shows the distribution of the ratings.","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":4,"text":"The ratio of each rating (from 1 to 5) is colored differently.","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":5,"text":"The first sentence is \"1) Sig helped me feel more comfortable when deciding whether to interact with strangers on Twitter\".","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":6,"text":"Participants overall gave an average rating of 3.9\/5 for this sentence.","labels":[0,1,0,0]}
+{"corpus_id":218482477,"sent_id":7,"text":"4 people gave a 3, 4 people gave a 4, and 3 people gave a 5.  Next, for \"2) How would you rate your overall experience of using Sig?\" the average rating was 4 out of 5. 2 people gave a 3, 7 people gave a 4, and 2 people gave a 5.  For \"3) Was Sig's visualization of various social signals easy to understand?\" the average score was 4.7 out of 5.","labels":[0,1,0,0]}
+{"corpus_id":218482477,"sent_id":8,"text":"3 people gave a 4 and 8 people gave a 5.","labels":[1,0,0,0]}
+{"corpus_id":218482477,"sent_id":9,"text":"Finally, for \"4) Would you be interested in using a refined version of Sig in the future?\", the average rating was 4.7 out of 5. 1 person gave a 2, 2 people gave a 3, 2 people gave a 4, and 6 people gave a 5.","labels":[0,1,0,0]}
+{"corpus_id":153313841,"sent_id":0,"text":"Plot of Effect of Surfaced Hits on ML-1M.","labels":[1,0,0,0]}
+{"corpus_id":153313841,"sent_id":1,"text":"Shows boycotts and data strikes.","labels":[0,0,1,0]}
+{"corpus_id":218482722,"sent_id":0,"text":"\"A double bar graph showing the average survey responses for both the Treatment and Control condition.","labels":[1,0,0,0]}
+{"corpus_id":218482722,"sent_id":1,"text":"The vertical axis is labelled with the metric measured by the survey questions. 'Perceived Efficiency' and 'Perceived Effectiveness' were both higher in the Treatment condition when compared to the Control condition, and 'Aggregated NASA-TLX' was lower in the Treatment condition when compared to the Control condition.\"","labels":[1,0,0,0]}
+{"corpus_id":153313841,"sent_id":0,"text":"Plot of Effect of Surfaced Hits on ML-1M.","labels":[1,0,0,0]}
+{"corpus_id":153313841,"sent_id":1,"text":"Shows boycotts and data strikes.","labels":[0,0,1,0]}
+{"corpus_id":153313841,"sent_id":2,"text":"As size of boycotts\/data strikes increases, Surfaced Hits are reduced.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":0,"text":"There are two boxplots per participants.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":1,"text":"Green one is for the TV viewing condition and the orange one is for the Wall viewing condition.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":2,"text":"P1.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":3,"text":"green boxplot is from 2.17 seconds to 4.51 seconds and the center position is 3.08 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":4,"text":"Orange boxplot is from 2.30 seconds to 4.81 seconds and the center position is 3.40 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":5,"text":"P2.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":6,"text":"green boxplot is from 1.62 seconds to 2.69 seconds and the center position is 2.24 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":7,"text":"Orange boxplot is from 1.95 seconds to 4.13 seconds and the center position is 2.50 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":8,"text":"P3.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":9,"text":"green boxplot is from 1.84 seconds to 2.77 seconds and the center position is 2.34 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":10,"text":"Orange boxplot is from 1.74 seconds to 2.40 seconds and the center position is 2.00 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":11,"text":"P4.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":12,"text":"green boxplot is from 1.73 seconds to 3.35 seconds and the center position is 2.20 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":13,"text":"Orange boxplot is from 1.62 seconds to 2.86 seconds and the center position is 2.37 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":14,"text":"P5.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":15,"text":"green boxplot is from 1.59 seconds to 2.36 seconds and the center position is 2.04 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":16,"text":"Orange boxplot is from 1.62 seconds to 2.20 seconds and the center position is 1.88 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":17,"text":"P6.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":18,"text":"green boxplot is from 1.65 seconds to 2.10 seconds and the center position is 1.84seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":19,"text":"Orange boxplot is from 1.76 seconds to 2.63 seconds and the center position is 2.16 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":20,"text":"P7.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":21,"text":"green boxplot is from 2.04 seconds to 3.80 seconds and the center position is 2.56 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":22,"text":"Orange boxplot is from 2.58 seconds to 4.55 seconds and the center position is 3.50 seconds.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":0,"text":"Y axis means participant (numbered with 'P') and X axis means score.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":1,"text":"There are two bars per participants in horizontal direction.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":2,"text":"The length of the bar represent the SUS survey scores.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":3,"text":"P1.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":4,"text":"TV condition score is 47.5 and Wall condition score is 35.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":5,"text":"P2.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":6,"text":"TV condition score is 80 and Wall condition score is 75.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":7,"text":"P3.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":8,"text":"TV condition score is 87.5 and Wall condition score is 85.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":9,"text":"P4.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":10,"text":"TV condition score is 82.5 and Wall condition score is 80.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":11,"text":"P5.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":12,"text":"TV condition score is 65 and Wall condition score is 62.5.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":13,"text":"P6.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":14,"text":"TV condition score is 97.5 and Wall condition score is 100.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":15,"text":"P7.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":16,"text":"TV condition score is 87.5 and Wall condition score is 82.5.","labels":[0,1,0,0]}
+{"corpus_id":218482654,"sent_id":0,"text":"(a) There are two bar graph and two line graph.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":1,"text":"X-axis labeled as Phase and it is from 0 to 2 pi.","labels":[1,0,0,0]}
+{"corpus_id":218482654,"sent_id":2,"text":"Both barr graphs has similar heights across the x-axis and both line graph has peak at the 3\/4 pi position and 15\/8 pi position, and the peak at the 3\/4 pi position is more higher than the peak at the 15\/8 pi position  (b) cosine x graph and minus cosine x graph are ploated across the x-axis. from 0 to 2 pi","labels":[1,1,1,0]}
+{"corpus_id":233987644,"sent_id":0,"text":"The first line graph showing that the discrete output from a Speed Detector almost fit the ground truth.","labels":[0,0,1,0]}
+{"corpus_id":233987644,"sent_id":1,"text":"The second line graph showing that the longitudinal acceleration output from an Inertia Detector has a similar trend with ground truth, but with a smaller magnitude.","labels":[0,0,1,0]}
+{"corpus_id":233987644,"sent_id":2,"text":"The third line graph showing that the lateral acceleration output from an Inertia Detector has a similar trend with the ground truth, but cramped to -20 to 20.","labels":[0,1,1,0]}
+{"corpus_id":233987550,"sent_id":0,"text":"Bar chart of number of participants that considered to stop using their tracker, shows that 40% of the participants somewhat to strongly agree to having considered to stop using their tracker.","labels":[1,1,0,0]}
+{"corpus_id":233987550,"sent_id":0,"text":"Bar chart of the regularity of which participants check their tracker data, 63% of the participants check their data at least once a day.","labels":[1,1,0,0]}
+{"corpus_id":233987550,"sent_id":0,"text":"Bar chart of number of participants that reflect on their data spontaneously, shows that 85% of the participants somewhat to strongly agree that reflection happens spontaneously.","labels":[1,1,0,0]}
+{"corpus_id":233987550,"sent_id":0,"text":"Bar chart of number of participants are satisfied about how the tracker data reflects their daily activities, shows that 95% of the participants somewhat to strongly agree to this.","labels":[1,1,0,0]}
+{"corpus_id":202233477,"sent_id":0,"text":"Error rates decrease over the 8-week period.","labels":[0,0,1,0]}
+{"corpus_id":202233477,"sent_id":1,"text":"Substitutions are clearly the most common error type.","labels":[0,1,0,0]}
+{"corpus_id":202233477,"sent_id":0,"text":"Participants slowly improve performance from week to week as in laboratory settings; however, everyday typing performance is consistently higher than lab performance (average 1.5 times).","labels":[0,1,1,0]}
+{"corpus_id":202233477,"sent_id":0,"text":"Uncorrected error rate is slightly higher in everyday typing tasks compared with laboratory performance.","labels":[0,0,1,0]}
+{"corpus_id":202233477,"sent_id":1,"text":"This results holds true for all participants.","labels":[0,0,1,0]}
+{"corpus_id":53224149,"sent_id":0,"text":"A bubble chart shows a matrix of bubbles, where the rows are countries (U.S., China, Taiwan) and the columns are behavior categories.","labels":[1,0,0,0]}
+{"corpus_id":53224149,"sent_id":1,"text":"Each bubble has a number label corresponding to its area, which reflects the average number of a times a parent from the sample (row) performed the specific behavior (column) during the instructional game session.","labels":[1,0,0,0]}
+{"corpus_id":53224149,"sent_id":2,"text":"Taiwan: Intervention: 17.75 Instruction: 16.25 Open-Ended: 12.83 Augmentation: 8.58 Warmth: 12.83  China: Intervention: 7.3 Instruction: 8.2 Open-Ended: 8.0 Augmentation: 7.4 Warmth: 3.8  U.S. Intervention: 2.4 Instruction: 6.26 Open-Ended: 7.6 Augmentation: 9.6 Warmth: 22.8","labels":[0,1,0,0]}
+{"corpus_id":53224149,"sent_id":0,"text":"A bubble chart shows a matrix of bubbles, where the rows are countries (U.S., China, Taiwan) and the columns are behavior categories.","labels":[1,0,0,0]}
+{"corpus_id":53224149,"sent_id":1,"text":"Each bubble has a number label corresponding to its area, which reflects the average number of a times a parent from the sample (row) performed the specific behavior (column) during the instructional game session.","labels":[1,0,0,0]}
+{"corpus_id":53224149,"sent_id":2,"text":"Taiwan: Intervention: 4.17 Instruction: 7.7 Open-Ended: 6 Augmentation: 8.83 Warmth: 4.83  China: Intervention: 2.4 Instruction: 5.0 Open-Ended: 7.4 Augmentation: 7.4 Warmth: 1.6  U.S. Intervention: 0.5 Instruction: 4.5 Open-Ended: 8.1 Augmentation: 20.9 Warmth: 9.9","labels":[0,1,0,0]}
+{"corpus_id":174801549,"sent_id":0,"text":"Line graph comparing the standardized MEFS scores between children who played CMC and children who played DT from baseline to the short-term post-test.","labels":[1,0,0,0]}
+{"corpus_id":174801549,"sent_id":1,"text":"From baseline to short-term post-test, the CMC line goes up from about 0.4 to 0.5.","labels":[0,1,1,0]}
+{"corpus_id":174801549,"sent_id":2,"text":"From baseline to short-term post-test, the DT line goes slightly down from 0.2 to about -0.5.","labels":[0,1,1,0]}
+{"corpus_id":233987615,"sent_id":0,"text":"Number of trials and success rates of all 26 participants for all basic emotion they tried to mimic.","labels":[1,0,0,0]}
+{"corpus_id":233987615,"sent_id":0,"text":"Number of trials and success rates of all 26 participants for all basic emotion they tried to mimic.","labels":[1,0,0,0]}
+{"corpus_id":233987274,"sent_id":0,"text":"A stacked bar chart illustrating the distributions of categories on how parents with different infant feeding roles make use of digital technology to support their infant feeding practice.","labels":[1,0,0,0]}
+{"corpus_id":233987274,"sent_id":1,"text":"The category of technology use includes relating to the feeding experiences of others, assuring infant feeding practice, finding solutions to challenges in infant feeding and logging infant feeding practice.","labels":[1,0,0,0]}
+{"corpus_id":233987274,"sent_id":2,"text":"For the category of relating to the feeding experiences of others, 12.8% of breastfeeding parents responded neither agree nor disagree, 38.40% agreed, 36.80% strongly agreed.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":3,"text":"No bottle-feeding parents responded strongly disagree and disagree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":4,"text":"25.00% responded neither agree nor disagree, 41.67% responded agree, 33.33% responded strongly agree. 23.53% of partners responded responded neither agree nor disagree and 41.18% responded agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":5,"text":"For the assuring infant feeding practice category, 32.54% of breastfeeding parents responded agree while 34.92% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":6,"text":"50% of bottle-feeding parents responded responded agree and 25.00% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":7,"text":"23.53% of partners responded disagree, and 41.18% responded agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":8,"text":"For the finding solutions to challenges in infant feeding practice category, 37.7% of breastfeeding parents responded agree and 45.90% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":9,"text":"33.33% of bottle-feeding parents responded agree and 33.33% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":10,"text":"37.5% of partners responded agree, 31.25% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":11,"text":"For the logging infant feeding practice category, 34.92% of breastfeeding parents responded strongly disagree, and 25.40% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":12,"text":"50% of bottle-feeding parents responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":13,"text":"31.25% of partners responded strongly disagree, and 31.25% responded strongly agree.","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":0,"text":"A bar chart illustrating the distribution of the IBM constructs on 5-point Likert scales.","labels":[1,0,0,0]}
+{"corpus_id":233987274,"sent_id":1,"text":"For attitude, breastfeeding parents responded strongly agree(59.95%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":2,"text":"Bottle-feeding parents responded strongly disagree(30.56%), strongly agree(33.33%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":3,"text":"Partners responded strongly agree(35.29%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":4,"text":"Parents-to-be responded neither agree nor disagree(33.33%), strongly agree(33.33%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":5,"text":"For norm, breastfeeding parents responded strongly disagree(27.32%), disagree(27.32%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":6,"text":"Bottle-feeding parents responded strongly disagree(25%) and strongly agree(25%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":7,"text":"Partners responded neither agree nor disagree(23.53%), agree(32.94%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":8,"text":"Parents-to-be responded neither agree nor disagree(43%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":9,"text":"For personal agency, breastfeeding parents responded agree(23.22%), strongly agree(35.95%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":10,"text":"Bottle-feeding parents responded strongly disagree(39.58%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":11,"text":"Partners responded disagree(25%), agree(25%) and strongly agree(21.32%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":12,"text":"Parents-to-be responded neither agree nor disagree(32.14%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":13,"text":"For environment, breastfeeding parents responded neither agree nor disagree(25.1%), responded agree(23.28%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":14,"text":"Bottle-feeding parents responded neither agree nor disagree(27.08%), strongly agree(27.08%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":15,"text":"Partners responded neither agree nor disagree(26.94%), agree(25%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":16,"text":"Parents-to-be responded neither agree nor disagree(47.5%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":17,"text":"For knowledge, breastfeeding parent responded strongly agree(38.88%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":18,"text":"Bottle-feeding parents responded agree(23.33%), strongly agree(36.67%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":19,"text":"Partners responded agree(33.05%), strongly agree(46.39%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":20,"text":"Parents-to-be responded neither agree nor disagree(28.33%), agree(33.33%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":21,"text":"For salience, breastfeeding parents responded strongly agree(59.79%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":22,"text":"Bottle-feeding parents responded agree(33.33%), strongly agree(33.33%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":23,"text":"Partners responded strongly agree(41.18%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":24,"text":"Parents-to-be responded strongly agree(40%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":25,"text":"For habit, Breastfeeding parents responded agree(30.65%), strongly agree(46.77%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":26,"text":"Bottle-feeding parents responded strongly agree(58.33%).","labels":[0,1,0,0]}
+{"corpus_id":233987274,"sent_id":27,"text":"Partners responded agree(47.06%).","labels":[0,1,0,0]}
+{"corpus_id":17354027,"sent_id":0,"text":"The graph shows a gradual increase of about 10% of the amount of total errors from large to tiny.","labels":[0,1,1,0]}
+{"corpus_id":17354027,"sent_id":1,"text":"On the other hand, the uncorrected error rate remains constant.","labels":[0,0,1,0]}
+{"corpus_id":17354027,"sent_id":0,"text":"The graph shows a significant increase of the relative path lenght as size gets smaller. From a relative distance smaller than 10 pixels to a 30 pixel difference on tiny.","labels":[0,0,1,0]}
+{"corpus_id":17354027,"sent_id":1,"text":"The same effect it is also noticible on the task axis lengh but the difference between tiny and large is of only about 8 relative pixels.","labels":[0,1,1,0]}
+{"corpus_id":17354027,"sent_id":0,"text":"The bar graph depicts no differences between the number of slips of large, medium and small size but a considerable difference to tiny that above 60% slip errors.","labels":[0,1,0,0]}
